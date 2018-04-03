@@ -1,0 +1,16 @@
+Comand LINE:
+
+php bin/magento setup:static-content:deploy --theme PACKAGE_NAME/THEME_NAME pl_PL --no-html-minify
+
+
+// for styles used in both mobile and desktop views
+& when (@media-common = true) {}
+ 
+// Mobile
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {}
+ 
+// Tablet
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {}
+ 
+// Desktop
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {}
