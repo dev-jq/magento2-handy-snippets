@@ -1,4 +1,4 @@
-# Magento 2 - sources of knowledge
+# Magento 2 - awesome sources
 
 https://github.com/topics/magento2
 
