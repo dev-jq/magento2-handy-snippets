@@ -5,6 +5,7 @@ https://github.com/topics/magento2
 https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
 
 ## Pro Magento Devs:
+
 https://github.com/magefan
 
 https://github.com/nans/Magestudy
@@ -16,6 +17,8 @@ https://github.com/redchamps
 https://github.com/vijayrami
 
 ## Companies:
+
+https://github.com/swissup
 
 https://github.com/orgs/magespecialist/repositories
 
@@ -78,8 +81,6 @@ https://blog.chapagain.com.np/category/magento/magento-2/
 https://www.scommerce-mage.com/blog/
 
 https://fooman.com/blog/tag:Magento2
-
-https://blog.magezon.com
 
 https://firebearstudio.com/blog/
 
