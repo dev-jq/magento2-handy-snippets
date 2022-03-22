@@ -18,11 +18,15 @@ https://github.com/vijayrami
 
 ## Companies:
 
-https://github.com/swissup
+https://github.com/orgs/swissup/repositories
+
+https://github.com/orgs/magepow/repositories
 
 https://github.com/orgs/magespecialist/repositories
 
 https://github.com/orgs/magesuite/repositories
+
+https://github.com/orgs/Vendic/repositories
 
 https://github.com/orgs/yireo-training/repositories
 
@@ -49,6 +53,16 @@ https://github.com/orgs/mage2pro/repositories
 https://github.com/orgs/bitExpert/repositories
 
 https://github.com/orgs/EcomDev/repositories
+
+https://github.com/orgs/mavenecommerce/repositories
+
+https://github.com/orgs/dnafactory/repositories
+
+https://github.com/orgs/sitewards/repositories
+
+https://github.com/orgs/customgento/repositories
+
+
 
 ## Blogs:
 
@@ -101,6 +115,11 @@ https://onilab.com/blog/
 https://mage.training/blog/tag/magento-2/
 
 https://bsscommerce.com/blog/category/magento-tutorial/
+
+https://magebrew.com/blog/category/magento-2/
+
+http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
+
 
 ## Free M2 modules (companies):
 
