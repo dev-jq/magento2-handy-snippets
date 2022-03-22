@@ -22,7 +22,7 @@
 </referenceBlock>
 ```
 
-## Set template layout in xml (e.g. catalog_category_view.xml)
+## Set template layout in xml (e.g. "2columns-left" in catalog_category_view.xml)
 ```
 <?xml version="1.0"?>
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
