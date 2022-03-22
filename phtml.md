@@ -3,10 +3,10 @@
 <?= __('String to translate'); ?>
 ```
 ## Call method from module helper
-``
+```
 <?php $helper = $this->helper('Vendor\Module\Helper\Data'); ?>
 <?php $helper->callMethodName(); ?>
-``
+```
 
 ## Useful block functions
 ```
