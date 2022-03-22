@@ -1,5 +1,5 @@
 ## Custom Variable
-`{{CustomVar code= "my_custom_variable"}}`
+`{{CustomVar code='my_custom_variable'}}`
 
 ## Store URL
 `{{store url='customer/account'}}`
@@ -17,14 +17,13 @@
 
 `{{widget type="catalog/product_widget_link" anchor_text="My Product Link" title="My Product Link" template="catalog/product/widgetlink/link_block.phtml" id_path="product/31"}}`
 
-# Full list: https://docs.magento.com/user-guide/marketing/variables-reference.html
 ## Store Contact Information Variables 
-Base Secure URL	`{{config path=”web/secure/base_url”}}`
+Base Secure URL	`{{config path='web/secure/base_url'}}`
 
-General Contact Email	`{{config path=”trans_email/ident_general/email”}}`
+General Contact Email	`{{config path='trans_email/ident_general/email'}}`
 
 ## New Account Template Variables
-Customer Account URL	`{{var this.getUrl($store, ‘customer/account/’)}}`
+Customer Account URL `{{var this.getUrl($store, ‘customer/account/’)}}`
 
 Customer Email `{{var customer.email}}`
 
@@ -40,3 +39,4 @@ Email Logo Image URL `{{var logo_url}}`
 
 Email Logo Image Width `{{var logo_width}}`
 
+# See more: https://docs.magento.com/user-guide/marketing/variables-reference.html
