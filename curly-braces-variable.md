@@ -2,10 +2,13 @@
 `{{CustomVar code='my_custom_variable'}}`
 
 ## Store URL
-`{{store url='customer/account'}}`
+`{{store url='customer/account'}}` - with slash at the end
+'{{store direct_url='contact-us'}}' - without slash at the end
 
 ## Media URL
-`{{media url='filename.jpg'}}`
+`{{media url='wysiwyg/your-image.jpg'}}`
+`{{skin url='images/loader-1.gif'}}`
+`{{view url='images/logo.svg'}}`
 
 ## Block ID
 `{{block class="Magento\Contact\Block\ContactForm" name="contactForm" template="Magento_Contact::form.phtml"}}`
