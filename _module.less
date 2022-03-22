@@ -1,19 +1,31 @@
-// for styles used in both mobile and desktop views
+//media all (styles-m.less)
 & when (@media-common = true) {
 
 }
  
-// Mobile
+// only mobile
 .media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
 
 }
  
-// Tablet
+// min 768px
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
-  
+
 }
 
-// Desktop
+// min 1024px
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
 
+}
+
+// min 1440px
+.media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__xl) {
+
+}
+
+// non standard breakpoint (styles-l.less)
+& when (@media-common = false) {
+	  @media screen and (min-width: 1200px) {
+    
+   }
 }
