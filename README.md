@@ -22,6 +22,8 @@ https://github.com/orgs/swissup/repositories
 
 https://github.com/orgs/magepow/repositories
 
+https://github.com/orgs/magepal/repositories
+
 https://github.com/orgs/magespecialist/repositories
 
 https://github.com/orgs/magesuite/repositories
@@ -33,8 +35,6 @@ https://github.com/orgs/yireo-training/repositories
 https://github.com/orgs/Smile-SA/repositories
 
 https://github.com/orgs/EaDesgin/repositories
-
-https://github.com/orgs/magepal/repositories
 
 https://github.com/orgs/extdn/repositories
 
@@ -62,9 +62,15 @@ https://github.com/orgs/sitewards/repositories
 
 https://github.com/orgs/customgento/repositories
 
+https://github.com/orgs/flancer32/repositories
+
 
 
 ## Blogs:
+
+https://www.dhairvi.com/category/magento2/
+
+https://www.rakeshjesadiya.com/category/magento-2/
 
 https://blog.magezon.com/magento-tutorials/
 
