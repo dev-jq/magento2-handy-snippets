@@ -142,3 +142,5 @@ https://meetanshi.com/free-magento-extensions.html
 https://www.magevision.com/free-extensions
 
 https://amasty.com/free-magento-2-extensions.html
+
+https://www.ulmod.com/magento2-extensions/free-extensions.html
