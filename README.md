@@ -130,6 +130,8 @@ https://magebrew.com/blog/category/magento-2/
 
 http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
 
+https://www.codedecorator.com/blog/
+
 
 ## Free M2 modules (companies):
 
