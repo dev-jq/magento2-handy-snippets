@@ -80,6 +80,10 @@ https://webguru.pt/category/magento-2/
 
 http://vijaymrami.blogspot.com
 
+https://extensionsninjas.com/magento-2-tutorials.html
+
+https://mageprince.com/blog/category/magento2/
+
 https://jason.codes
 
 https://inchoo.net/magento-2/
