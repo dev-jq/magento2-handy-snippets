@@ -144,3 +144,5 @@ https://www.magevision.com/free-extensions
 https://amasty.com/free-magento-2-extensions.html
 
 https://www.ulmod.com/magento2-extensions/free-extensions.html
+
+https://www.codedecorator.com/freebies.html
