@@ -9,6 +9,8 @@ php bin/magento deploy:mode:set production --skip-compilation
 
 php bin/magento maintenance:disable
 php bin/magento maintenance:enable
+php bin/magento maintenance:enable --ip=192.0.0.1 --ip=192.0.0.2 (for all clients except this IPs)
+php bin/magento maintenance:enable --ip=none (to clear the list of IPs)
 ```
 
 **CSS and JS config for development**
