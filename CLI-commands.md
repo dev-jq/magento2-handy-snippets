@@ -24,20 +24,6 @@ php bin/magento module:disable VENDOR_MODULENAME
 php bin/magento module:enable VENDOR_MODULENAME
 ```
 
-**Cache Operations:**
-
-```
-php bin/magento cache:status
-```
-
-```
-php -d memory_limit=2048M bin/magento cache:flush
-```
-
-```
-php -d memory_limit=2048M bin/magento cache:clean
-```
-
 **Indexer ( Reindex | Reset ):**
 
 ```
@@ -87,4 +73,15 @@ php bin/magento config:set dev/js/enable_js_bundling 0
 php bin/magento config:set dev/js/minify_files 0
 php bin/magento config:set dev/css/merge_css_files 0
 php bin/magento config:set dev/css/minify_files 0
+```
+
+**Cache Operations:**
+
+```
+php bin/magento cache:status
+php bin/magento c:f ( cache:flush }
+php bin/magento c:c ( cache:clean }
+php -d memory_limit=2048M bin/magento cache:flush
+php -d memory_limit=2048M bin/magento cache:clean
+php bin/magento cache:disable full_page layout block_html translate
 ```
