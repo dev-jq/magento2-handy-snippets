@@ -132,6 +132,8 @@ http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
 
 https://www.codedecorator.com/blog/
 
+https://www.justwebdevelopment.com/blog/category/magento2/
+
 
 ## Free M2 modules (companies):
 
@@ -148,3 +150,7 @@ https://amasty.com/free-magento-2-extensions.html
 https://www.ulmod.com/magento2-extensions/free-extensions.html
 
 https://www.codedecorator.com/freebies.html
+
+https://www.bubbleshop.net/magento-extensions/free.html
+
+https://magecomp.com/free-magento-extensions.html
