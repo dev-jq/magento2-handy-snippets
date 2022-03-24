@@ -78,20 +78,13 @@ php bin/magento deploy:mode:show
 php bin/magento deploy:mode:set production ( default | production | developer )
 ```
 
-**Some Config Set from CLI:**
+**CSS and JS config for development**
 
 ```
-php bin/magento config:set dev/js/enable_js_bundling 1
-```
-
-```
-php bin/magento config:set dev/js/minify_files 1
-```
-
-```
-php bin/magento config:set dev/static/sign 1
-```
-
-```
-php bin/magento config:set dev/js/merge_files 1
+php bin/magento config:set dev/js/enable_js_bundling 0
+php bin/magento config:set dev/js/merge_files 0
+php bin/magento config:set dev/js/enable_js_bundling 0
+php bin/magento config:set dev/js/minify_files 0
+php bin/magento config:set dev/css/merge_css_files 0
+php bin/magento config:set dev/css/minify_files 0
 ```
