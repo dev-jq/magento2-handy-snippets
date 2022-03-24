@@ -49,6 +49,7 @@ php -d memory_limit=2048M bin/magento setup:di:compile
 php -d memory_limit=2048M bin/magento setup:static-content:deploy
 php bin/magento setup:static-content:deploy pl_PL -f
 php bin/magento setup:static-content:deploy pl_PL --theme Vendor/theme --no-html-minify -f
+php bin/magento setup:static-content:deploy pl_PL en_US en_GB --jobs 20
 
 ```
 
