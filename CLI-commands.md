@@ -39,6 +39,7 @@ php bin/magento cache:disable full_page layout block_html translate
 php bin/magento module:status
 php bin/magento module:disable VENDOR_MODULENAME
 php bin/magento module:enable VENDOR_MODULENAME
+php bin/magento module:uninstall VENDOR_MODULENAME (if installed by Composer)
 ```
 
 **Setup Upgrade / Setup Compile / Static Content Deploy:**
@@ -65,8 +66,27 @@ php bin/magento setup:store-config:set --base-url-secure="http://project.dev/"
 php -d memory_limit=2048M bin/magento indexer:reindex
 ```
 
+**Generate a translation package for a definite module**
+```
+php bin/magento i18n:collect-phrases -o app/code/Module/Vendor/i18n/pl_PL.csv app/code/Module/Vendor/
+```
+
 **Catalog Images Resize:**
 
 ```
 php bin/magento catalog:image:resize
 ```
+
+**For admin**
+```
+php bin/magento admin:user:create
+php bin/magento info:adminuri
+
+```
+
+**Get list if all available commands**
+```
+php bin/magento list
+php bin/magento help
+```
+
