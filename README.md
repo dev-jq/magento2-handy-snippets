@@ -9,17 +9,17 @@
 
 # Or see my Magento 2 bookmarks :star_struck:
 
-## ** **Pro Magento Devs:
+## :trophy:	Pro Magento Devs:
 
-:star: https://github.com/magefan
+:black_medium_small_square: https://github.com/magefan
 
-:star: https://github.com/nans/Magestudy
+:black_medium_small_square: https://github.com/nans/Magestudy
 
-:star: https://github.com/MagePsycho
+:black_medium_small_square: https://github.com/MagePsycho
 
-:star: https://github.com/redchamps
+:black_medium_small_square: https://github.com/redchamps
 
-:star: https://github.com/vijayrami
+:black_medium_small_square: https://github.com/vijayrami
 
 ## :office: Companies:
 
@@ -145,7 +145,7 @@
 :black_medium_small_square: https://www.justwebdevelopment.com/blog/category/magento2/
 
 
-## :free:	M2 modules (companies):
+## :free: Free	M2 modules (companies):
 
 :black_medium_small_square: https://bsscommerce.com/magento-2-extensions/free.html
 
