@@ -9,7 +9,7 @@
 
 # Or see my Magento 2 bookmarks :star_struck:
 
-## Pro Magento Devs:
+## ** **Pro Magento Devs:
 
 :star: https://github.com/magefan
 
@@ -21,152 +21,152 @@
 
 :star: https://github.com/vijayrami
 
-## Companies:
+## :office: Companies:
 
-https://github.com/orgs/swissup/repositories
+:black_medium_small_square: https://github.com/orgs/swissup/repositories
 
-https://github.com/orgs/magepow/repositories
+:black_medium_small_square: https://github.com/orgs/magepow/repositories
 
-https://github.com/orgs/magepal/repositories
+:black_medium_small_square: https://github.com/orgs/magepal/repositories
 
-https://github.com/orgs/magespecialist/repositories
+:black_medium_small_square: https://github.com/orgs/magespecialist/repositories
 
-https://github.com/orgs/magesuite/repositories
+:black_medium_small_square: https://github.com/orgs/magesuite/repositories
 
-https://github.com/orgs/Vendic/repositories
+:black_medium_small_square: https://github.com/orgs/Vendic/repositories
 
-https://github.com/orgs/yireo-training/repositories
+:black_medium_small_square: https://github.com/orgs/yireo-training/repositories
 
-https://github.com/orgs/Smile-SA/repositories
+:black_medium_small_square: https://github.com/orgs/Smile-SA/repositories
 
-https://github.com/orgs/EaDesgin/repositories
+:black_medium_small_square: https://github.com/orgs/EaDesgin/repositories
 
-https://github.com/orgs/extdn/repositories
+:black_medium_small_square: https://github.com/orgs/extdn/repositories
 
-https://github.com/orgs/integer-net/repositories
+:black_medium_small_square: https://github.com/orgs/integer-net/repositories
 
-https://github.com/orgs/AmpersandHQ/repositories
+:black_medium_small_square: https://github.com/orgs/AmpersandHQ/repositories
 
-https://github.com/orgs/magento-hackathon/repositories
+:black_medium_small_square: https://github.com/orgs/magento-hackathon/repositories
 
-https://github.com/orgs/elgentos/repositories
+:black_medium_small_square: https://github.com/orgs/elgentos/repositories
 
-https://github.com/orgs/Siteation/repositories
+:black_medium_small_square: https://github.com/orgs/Siteation/repositories
 
-https://github.com/orgs/mage2pro/repositories
+:black_medium_small_square: https://github.com/orgs/mage2pro/repositories
 
-https://github.com/orgs/bitExpert/repositories
+:black_medium_small_square: https://github.com/orgs/bitExpert/repositories
 
-https://github.com/orgs/EcomDev/repositories
+:black_medium_small_square: https://github.com/orgs/EcomDev/repositories
 
-https://github.com/orgs/mavenecommerce/repositories
+:black_medium_small_square: https://github.com/orgs/mavenecommerce/repositories
 
-https://github.com/orgs/dnafactory/repositories
+:black_medium_small_square: https://github.com/orgs/dnafactory/repositories
 
-https://github.com/orgs/sitewards/repositories
+:black_medium_small_square: https://github.com/orgs/sitewards/repositories
 
-https://github.com/orgs/customgento/repositories
+:black_medium_small_square: https://github.com/orgs/customgento/repositories
 
-https://github.com/orgs/flancer32/repositories
+:black_medium_small_square: https://github.com/orgs/flancer32/repositories
 
-https://github.com/orgs/lizardmedia/repositories
+:black_medium_small_square: https://github.com/orgs/lizardmedia/repositories
 
-https://github.com/orgs/Magenerds/repositories
+:black_medium_small_square: https://github.com/orgs/Magenerds/repositories
 
-https://github.com/AmastyLtd-zz?tab=repositories
+:black_medium_small_square: https://github.com/AmastyLtd-zz?tab=repositories
 
 
-## Blogs:
+## :writing_hand:	 Blogs:
 
-https://www.dhairvi.com/category/magento2/
+:black_medium_small_square: https://www.dhairvi.com/category/magento2/
 
-https://www.rakeshjesadiya.com/category/magento-2/
+:black_medium_small_square: https://www.rakeshjesadiya.com/category/magento-2/
 
-https://blog.magezon.com/magento-tutorials/
+:black_medium_small_square: https://blog.magezon.com/magento-tutorials/
 
-https://www.magevision.com/blog
+:black_medium_small_square: https://www.magevision.com/blog
 
-https://webguru.pt/category/magento-2/
+:black_medium_small_square: https://webguru.pt/category/magento-2/
 
-http://vijaymrami.blogspot.com
+:black_medium_small_square: http://vijaymrami.blogspot.com
 
-https://extensionsninjas.com/magento-2-tutorials.html
+:black_medium_small_square: https://extensionsninjas.com/magento-2-tutorials.html
 
-https://mageprince.com/blog/category/magento2/
+:black_medium_small_square: https://mageprince.com/blog/category/magento2/
 
-https://jason.codes
+:black_medium_small_square: https://jason.codes
 
-https://inchoo.net/magento-2/
+:black_medium_small_square: https://inchoo.net/magento-2/
 
-https://www.codextblog.com/category/magento-2/
+:black_medium_small_square: https://www.codextblog.com/category/magento-2/
 
-https://meetanshi.com/blog/
+:black_medium_small_square: https://meetanshi.com/blog/
 
-https://webkul.com/blog/dev/
+:black_medium_small_square: https://webkul.com/blog/dev/
 
-https://magefan.com/blog
+:black_medium_small_square: https://magefan.com/blog
 
-https://magecomp.com/blog/category/magento-2/
+:black_medium_small_square: https://magecomp.com/blog/category/magento-2/
 
-https://alanstorm.com/category/magento-2/
+:black_medium_small_square: https://alanstorm.com/category/magento-2/
 
-https://blog.chapagain.com.np/category/magento/magento-2/
+:black_medium_small_square: https://blog.chapagain.com.np/category/magento/magento-2/
 
-https://www.scommerce-mage.com/blog/
+:black_medium_small_square: https://www.scommerce-mage.com/blog/
 
-https://fooman.com/blog/tag:Magento2
+:black_medium_small_square: https://fooman.com/blog/tag:Magento2
 
-https://firebearstudio.com/blog/
+:black_medium_small_square: https://firebearstudio.com/blog/
 
-https://www.michiel-gerritsen.com/
+:black_medium_small_square: https://www.michiel-gerritsen.com/
 
-https://pandagroup.co/blog/category/dev-notes
+:black_medium_small_square: https://pandagroup.co/blog/category/dev-notes
 
-https://blog.qaisarsatti.com/magento_2/
+:black_medium_small_square: https://blog.qaisarsatti.com/magento_2/
 
-https://store.magenest.com/blog/technical-guidelines/
+:black_medium_small_square: https://store.magenest.com/blog/technical-guidelines/
 
-https://extensionsninjas.com/magento-2-tutorials.html
+:black_medium_small_square: https://extensionsninjas.com/magento-2-tutorials.html
 
-https://mobecls.com/developers-blog/
+:black_medium_small_square: https://mobecls.com/developers-blog/
 
-https://onilab.com/blog/
+:black_medium_small_square: https://onilab.com/blog/
 
-https://mage.training/blog/tag/magento-2/
+:black_medium_small_square: https://mage.training/blog/tag/magento-2/
 
-https://bsscommerce.com/blog/category/magento-tutorial/
+:black_medium_small_square: https://bsscommerce.com/blog/category/magento-tutorial/
 
-https://magebrew.com/blog/category/magento-2/
+:black_medium_small_square: https://magebrew.com/blog/category/magento-2/
 
-http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
+:black_medium_small_square: http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
 
-https://www.codedecorator.com/blog/
+:black_medium_small_square: https://www.codedecorator.com/blog/
 
-https://www.justwebdevelopment.com/blog/category/magento2/
+:black_medium_small_square: https://www.justwebdevelopment.com/blog/category/magento2/
 
 
-## Free M2 modules (companies):
+## :free:	M2 modules (companies):
 
-https://bsscommerce.com/magento-2-extensions/free.html
+:black_medium_small_square: https://bsscommerce.com/magento-2-extensions/free.html
 
-https://www.weltpixel.com/magento2-extensions.html#wpx-free-extensions
+:black_medium_small_square: https://www.weltpixel.com/magento2-extensions.html#wpx-free-extensions
 
-https://meetanshi.com/free-magento-extensions.html
+:black_medium_small_square: https://meetanshi.com/free-magento-extensions.html
 
-https://www.magevision.com/free-extensions
+:black_medium_small_square: https://www.magevision.com/free-extensions
 
-https://amasty.com/free-magento-2-extensions.html
+:black_medium_small_square: https://amasty.com/free-magento-2-extensions.html
 
-https://www.ulmod.com/magento2-extensions/free-extensions.html
+:black_medium_small_square: https://www.ulmod.com/magento2-extensions/free-extensions.html
 
-https://www.codedecorator.com/freebies.html
+:black_medium_small_square: https://www.codedecorator.com/freebies.html
 
-https://www.bubbleshop.net/magento-extensions/free.html
+:black_medium_small_square: https://www.bubbleshop.net/magento-extensions/free.html
 
-https://magecomp.com/free-magento-extensions.html
+:black_medium_small_square: https://magecomp.com/free-magento-extensions.html
 
 
 ## :rocket: Find more on GitHub:
-https://github.com/topics/magento2
+:black_medium_small_square: https://github.com/topics/magento2
 
-https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
+:black_medium_small_square: https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
