@@ -1,8 +1,12 @@
 # Magento 2 - awesome sources
 
-https://github.com/topics/magento2
+### My [XML snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/xml.md)
+### My [.phtml template snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/phtml.md)
+### My [_module.less base file](https://github.com/jq91/magento2-handy-snippets/blob/master/_module.less)
+### My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
+### My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
+### My [Magento Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 
-https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
 
 ## Pro Magento Devs:
 
@@ -159,3 +163,9 @@ https://www.codedecorator.com/freebies.html
 https://www.bubbleshop.net/magento-extensions/free.html
 
 https://magecomp.com/free-magento-extensions.html
+
+
+## Find more on GitHub:
+https://github.com/topics/magento2
+
+https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
