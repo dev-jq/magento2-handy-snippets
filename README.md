@@ -64,6 +64,11 @@ https://github.com/orgs/customgento/repositories
 
 https://github.com/orgs/flancer32/repositories
 
+https://github.com/orgs/lizardmedia/repositories
+
+https://github.com/orgs/Magenerds/repositories
+
+https://github.com/AmastyLtd-zz?tab=repositories
 
 
 ## Blogs:
