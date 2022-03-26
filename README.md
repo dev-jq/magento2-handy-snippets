@@ -5,7 +5,7 @@
 ### My [_module.less base file](https://github.com/jq91/magento2-handy-snippets/blob/master/_module.less)
 ### My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
 ### My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
-### My [Magento Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
+### My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 
 # Or see my Magento 2 bookmarks:
 
