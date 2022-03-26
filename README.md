@@ -1,25 +1,25 @@
-# My Magento 2 awesome resources:
+# My Magento 2 awesome resources :star_struck:
 
-### My [XML snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/xml.md)
-### My [.phtml template snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/phtml.md)
-### My [_module.less base file](https://github.com/jq91/magento2-handy-snippets/blob/master/_module.less)
-### My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
-### My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
-### My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
+### :point_right: My [XML snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/xml.md)
+### :point_right: My [.phtml template snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/phtml.md)
+### :point_right: My [_module.less base file](https://github.com/jq91/magento2-handy-snippets/blob/master/_module.less)
+### :point_right: My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
+### :point_right: My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
+### :point_right: My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 
-# Or see my Magento 2 bookmarks:
+# Or see my Magento 2 bookmarks :star_struck:
 
 ## Pro Magento Devs:
 
-https://github.com/magefan
+:star: https://github.com/magefan
 
-https://github.com/nans/Magestudy
+:star: https://github.com/nans/Magestudy
 
-https://github.com/MagePsycho
+:star: https://github.com/MagePsycho
 
-https://github.com/redchamps
+:star: https://github.com/redchamps
 
-https://github.com/vijayrami
+:star: https://github.com/vijayrami
 
 ## Companies:
 
@@ -166,7 +166,7 @@ https://www.bubbleshop.net/magento-extensions/free.html
 https://magecomp.com/free-magento-extensions.html
 
 
-## Find more on GitHub:
+## :rocket: Find more on GitHub:
 https://github.com/topics/magento2
 
 https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
