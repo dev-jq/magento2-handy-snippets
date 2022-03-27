@@ -60,6 +60,7 @@ php bin/magento setup:static-content:deploy pl_PL en_US en_GB --jobs 20
 ```
 php bin/magento setup:store-config:set --base-url="http://project.dev/"
 php bin/magento setup:store-config:set --base-url-secure="http://project.dev/"
+php bin/magento config:set admin/security/session_lifetime 86400 ( 3600 = 1 hour / 86400 = 1 day / 31536000 = 1 year / etc )
 ```
 
 **Indexer ( Reindex | Reset ):**
