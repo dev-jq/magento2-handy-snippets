@@ -11,15 +11,15 @@
 
 ## :trophy:	Pro Magento Devs:
 
-:black_medium_small_square: https://github.com/magefan
+:black_medium_small_square: [magefan](https://github.com/magefan)
 
-:black_medium_small_square: https://github.com/nans/Magestudy
+:black_medium_small_square: [MagePsycho](https://github.com/MagePsycho)
 
-:black_medium_small_square: https://github.com/MagePsycho
+:black_medium_small_square: [redchamps](https://github.com/redchamps)
 
-:black_medium_small_square: https://github.com/redchamps
+:black_medium_small_square: [vijayrami](https://github.com/vijayrami)
 
-:black_medium_small_square: https://github.com/vijayrami
+:black_medium_small_square: [nans](https://github.com/nans)
 
 ## :office: Companies:
 
@@ -78,71 +78,69 @@
 
 ## :writing_hand:	 Blogs:
 
-:black_medium_small_square: https://www.dhairvi.com/category/magento2/
+:black_medium_small_square: [dhairvi.com](https://www.dhairvi.com/category/magento2/) :star:
 
-:black_medium_small_square: https://www.rakeshjesadiya.com/category/magento-2/
+:black_medium_small_square: [rakeshjesadiya.com](https://www.rakeshjesadiya.com/category/magento-2/)
 
-:black_medium_small_square: https://blog.magezon.com/magento-tutorials/
+:black_medium_small_square: [magezon.com](https://blog.magezon.com/magento-tutorials/) :star:
 
-:black_medium_small_square: https://www.magevision.com/blog
+:black_medium_small_square: [magevision.com](https://www.magevision.com/blog)
 
-:black_medium_small_square: https://webguru.pt/category/magento-2/
+:black_medium_small_square: [webguru.pt](https://webguru.pt/category/magento-2/)
 
-:black_medium_small_square: http://vijaymrami.blogspot.com
+:black_medium_small_square: [vijaymrami.blogspot.com](http://vijaymrami.blogspot.com) :star:
 
-:black_medium_small_square: https://extensionsninjas.com/magento-2-tutorials.html
+:black_medium_small_square: [extensionsninjas.com](https://extensionsninjas.com/magento-2-tutorials.html)
 
-:black_medium_small_square: https://mageprince.com/blog/category/magento2/
+:black_medium_small_square: [mageprince.com](https://mageprince.com/blog/category/magento2/) :star:
 
-:black_medium_small_square: https://jason.codes
+:black_medium_small_square: [jason.codes](https://jason.codes)
 
-:black_medium_small_square: https://inchoo.net/magento-2/
+:black_medium_small_square: [inchoo.net](https://inchoo.net/magento-2/)
 
-:black_medium_small_square: https://www.codextblog.com/category/magento-2/
+:black_medium_small_square: [codextblog.com](https://www.codextblog.com/category/magento-2/) :star:
 
-:black_medium_small_square: https://meetanshi.com/blog/
+:black_medium_small_square: [meetanshi.com](https://meetanshi.com/blog/) :star:
 
-:black_medium_small_square: https://webkul.com/blog/dev/
+:black_medium_small_square: [webkul.com](https://webkul.com/blog/dev/) :star:
 
-:black_medium_small_square: https://magefan.com/blog
+:black_medium_small_square: [magefan.com](https://magefan.com/blog/magento-2-development)
 
-:black_medium_small_square: https://magecomp.com/blog/category/magento-2/
+:black_medium_small_square: [magecomp.com](https://magecomp.com/blog/category/magento-2/) :star:
 
-:black_medium_small_square: https://alanstorm.com/category/magento-2/
+:black_medium_small_square: [alanstorm.com](https://alanstorm.com/category/magento-2/)
 
-:black_medium_small_square: https://blog.chapagain.com.np/category/magento/magento-2/
+:black_medium_small_square: [chapagain.com](https://blog.chapagain.com.np/category/magento/magento-2/) :star:
 
-:black_medium_small_square: https://www.scommerce-mage.com/blog/
+:black_medium_small_square: [scommerce-mage.com](https://www.scommerce-mage.com/blog/)
 
-:black_medium_small_square: https://fooman.com/blog/tag:Magento2
+:black_medium_small_square: [fooman.com](https://fooman.com/blog/tag:Magento2)
 
-:black_medium_small_square: https://firebearstudio.com/blog/
+:black_medium_small_square: [firebearstudio.com](https://firebearstudio.com/blog/the-ultimate-magento-2-tutorial.html)
 
-:black_medium_small_square: https://www.michiel-gerritsen.com/
+:black_medium_small_square: [michiel-gerritsen.com](https://www.michiel-gerritsen.com/)
 
-:black_medium_small_square: https://pandagroup.co/blog/category/dev-notes
+:black_medium_small_square: [pandagroup.co](https://pandagroup.co/blog/category/dev-notes)
 
-:black_medium_small_square: https://blog.qaisarsatti.com/magento_2/
+:black_medium_small_square: [qaisarsatti.com](https://blog.qaisarsatti.com/magento_2/)
 
-:black_medium_small_square: https://store.magenest.com/blog/technical-guidelines/
+:black_medium_small_square: [magenest.com](https://store.magenest.com/blog/technical-guidelines/) :star:
 
-:black_medium_small_square: https://extensionsninjas.com/magento-2-tutorials.html
+:black_medium_small_square: [mobecls.com](https://mobecls.com/category/magento-development/)
 
-:black_medium_small_square: https://mobecls.com/developers-blog/
+:black_medium_small_square: [onilab.com](https://onilab.com/blog/)
 
-:black_medium_small_square: https://onilab.com/blog/
+:black_medium_small_square: [mage.training](https://mage.training/blog/tag/magento-2/)
 
-:black_medium_small_square: https://mage.training/blog/tag/magento-2/
+:black_medium_small_square: [bsscommerce.com](https://bsscommerce.com/blog/category/magento-tutorial/)
 
-:black_medium_small_square: https://bsscommerce.com/blog/category/magento-tutorial/
+:black_medium_small_square: [magebrew.com](https://magebrew.com/blog/category/magento-2/)
 
-:black_medium_small_square: https://magebrew.com/blog/category/magento-2/
+:black_medium_small_square: [wishusucess.com](http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/)
 
-:black_medium_small_square: http://www.wishusucess.com/category/e-commerce-platform/magento-2-ecommerce/
+:black_medium_small_square: [codedecorator.com](https://www.codedecorator.com/blog) :star:
 
-:black_medium_small_square: https://www.codedecorator.com/blog/
-
-:black_medium_small_square: https://www.justwebdevelopment.com/blog/category/magento2/
+:black_medium_small_square: [justwebdevelopment.com](https://www.justwebdevelopment.com/blog/category/magento2/)
 
 
 ## :free: Free	M2 modules (companies):
