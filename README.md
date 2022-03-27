@@ -11,6 +11,7 @@
 # Or see my Magento 2 bookmarks :star_struck:
 
 ## :trophy:	Pro Magento Devs:
+:black_medium_small_square: [mage2pro](https://github.com/mage2pro)
 
 :black_medium_small_square: [magefan](https://github.com/magefan)
 
