@@ -1,7 +1,6 @@
 # Useful Magento 2 CLI commands
 
 **Deploy Mode Functions:**
-
 ```
 php bin/magento deploy:mode:show
 php bin/magento deploy:mode:set developer ( default | production | developer )
@@ -14,7 +13,6 @@ php bin/magento maintenance:enable --ip=none (to clear the list of IPs)
 ```
 
 **CSS and JS config for development**
-
 ```
 php bin/magento config:set dev/js/enable_js_bundling 0
 php bin/magento config:set dev/js/merge_files 0
@@ -27,7 +25,6 @@ php bin/magento config:set --scope="stores" --scope-code="default" dev/js/minify
 ```
 
 **Cache Operations:**
-
 ```
 php bin/magento cache:status
 php bin/magento c:f ( cache:flush }
@@ -36,7 +33,6 @@ php bin/magento cache:disable full_page layout block_html translate
 ```
 
 **Module oprations (check current status / disable module / enable module):**
-
 ```
 php bin/magento module:status
 php bin/magento module:disable VENDOR_MODULENAME
@@ -45,7 +41,6 @@ php bin/magento module:uninstall VENDOR_MODULENAME (if installed by Composer)
 ```
 
 **Setup Upgrade / Setup Compile / Static Content Deploy:**
-
 ```
 php -d memory_limit=2048M bin/magento setup:upgrade
 php -d memory_limit=2048M bin/magento setup:di:compile
@@ -60,11 +55,11 @@ php bin/magento setup:static-content:deploy pl_PL en_US en_GB --jobs 20
 ```
 php bin/magento setup:store-config:set --base-url="http://project.dev/"
 php bin/magento setup:store-config:set --base-url-secure="http://project.dev/"
-php bin/magento config:set admin/security/session_lifetime 86400 ( 3600 = 1 hour / 86400 = 1 day / 31536000 = 1 year / etc )
+
+php bin/magento config:set admin/security/session_lifetime 604800 ( 86400 = 1 day / 604800 = 7 days / 31536000 = 1 year / etc )
 ```
 
 **Indexer ( Reindex | Reset ):**
-
 ```
 php -d memory_limit=2048M bin/magento indexer:reindex
 ```
@@ -75,7 +70,6 @@ php bin/magento i18n:collect-phrases -o app/code/Module/Vendor/i18n/pl_PL.csv ap
 ```
 
 **Catalog Images Resize:**
-
 ```
 php bin/magento catalog:image:resize
 ```
@@ -84,12 +78,10 @@ php bin/magento catalog:image:resize
 ```
 php bin/magento admin:user:create
 php bin/magento info:adminuri
-
 ```
 
-**Get list if all available commands**
+**Get list of all available commands**
 ```
 php bin/magento list
 php bin/magento help
 ```
-
