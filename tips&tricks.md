@@ -1,4 +1,40 @@
-## Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
+## :point_right: When you should run which commands in Magento 2?
+### `php bin/magento setup:upgrade`
+```
+You should run this command only on following senarios:
+- When you made changes in the Setup script(InstallData, InstallSchema,
+- UpgradeData, UpgradeSchem)
+- When you install a new module
+- When you change setup_version in module.xml
+- After upgrade Magento version
+```
+
+### `php bin/magento setup:di:compile`
+```
+If you made changes like add new dependency in __construct(), changes in di.xml, Add new controller…
+
+If you are in developer mode you can simply delete changed files from /generated folder
+```
+
+### `php bin/magento setup:static-content:deploy`
+```
+You need to run this command only when you made changes in HTML, CSS, JS
+
+If you are in developer mode and enabled symlinks in system you need not run this command. 
+If disabled symlinks, need to delete particular changed files from pub/static folder.
+```
+
+### `php bin/magento cache:flush`
+```
+You need to run this command, if you made changes in:
+- admin configuration
+- layout xml
+- ui component
+- phtml or overrite html
+- js in frontend theme
+```
+
+## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
 in file:
 ```
 vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
@@ -7,7 +43,7 @@ vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
 in line 71 (before: 'relativeUrls' => false) add this code:
 `'sourceMap' => true,`
 
-## Find cacheable="false" blocks in templates
+## :point_right: Find cacheable="false" blocks in templates
 
 ```
 cd app/design/frontend/ && grep --recursive -l 'cacheable="false"' * && cd ../../..;
@@ -15,7 +51,29 @@ cd app/code && grep --recursive -l 'cacheable="false"' * && cd ../..;
 cd vendor && grep --recursive -l 'cacheable="false"' * && cd ..;
 ```
 
-## Set aAdmin session lifetime
-```
-php bin/magento config:set admin/security/session_lifetime 31536000
-```
+## :point_right: Overview list of caches in Magento 2
+***Configuration***: After adapting configuration files, it is necessary to flush them including configuration and store specific settings
+
+***Layouts***: After adapting layout files, it is necessary to flush them including the compiled page layout from all components
+
+***Blocks HTML output***: After adapting the view layers, it is necessary to flush them including page fragments per block
+
+***Collections Data***: By Magento, it can flush automatically database queries. However, Custom modules may write entries which make Magento can not clean by itself, in case, Magento can not clean so we need to clean the cache
+
+***Reflection Data***: API interfaces reflection data will be flushed
+
+***Database DDL operations***: it can be flush automatically by Magento, but 3rd party can plus more data, after making custom changes to the database schema, which can clean the cache
+
+***EAV types and attributes***: The metadata regarding the entity attributes into the cache, in general, it should not flush the cache
+
+***Integrations Configuration***: Caches the compiled integrations on your store. Clean after adding new or changing existing integrations
+
+***Integrations API Configuration***: Compiled integration APIs configuration of the Store’s Integrations
+
+***Page Cache***: This cache links the HTML pages so it is necessary to clean this type of cache regularly
+
+***Translations***: After merging translations from all modules, the merger cache will be cleaned
+
+***Web Services Configuration***: Caching the Web API Structure
+
+
