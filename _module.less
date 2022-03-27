@@ -3,29 +3,31 @@
 
 }
  
-// only mobile
+// only mobile: maximum 767px
 .media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
 
 }
  
-// min 768px
+// minimum 768px
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__m) {
 
 }
 
-// min 1024px
+// minimum 1024px
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__l) {
 
 }
 
-// min 1440px
+// minimum 1440px
 .media-width(@extremum, @break) when (@extremum = 'min') and (@break = @screen__xl) {
 
 }
 
-// non standard breakpoint (styles-l.css)
+// media large (styles-l.css)
 & when (@media-common = false) {
-	  @media screen and (min-width: 1200px) {
+  
+   // non standard Magento breakpoint
+   @media screen and (min-width: 1200px) {
     
    }
 }
