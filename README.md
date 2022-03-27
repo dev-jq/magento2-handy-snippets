@@ -6,6 +6,7 @@
 ### :point_right: My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
 ### :point_right: My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
 ### :point_right: My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
+### :point_right: In my opinion [top MUST HAVE Magento 2 extensions](https://github.com/jq91/magento2-handy-snippets/blob/master/top-must-have-magento2-extensions.md)
 
 # Or see my Magento 2 bookmarks :star_struck:
 
@@ -20,60 +21,6 @@
 :black_medium_small_square: [vijayrami](https://github.com/vijayrami)
 
 :black_medium_small_square: [nans](https://github.com/nans)
-
-## :office: Companies:
-
-:black_medium_small_square: https://github.com/orgs/swissup/repositories
-
-:black_medium_small_square: https://github.com/orgs/magepow/repositories
-
-:black_medium_small_square: https://github.com/orgs/magepal/repositories
-
-:black_medium_small_square: https://github.com/orgs/magespecialist/repositories
-
-:black_medium_small_square: https://github.com/orgs/magesuite/repositories
-
-:black_medium_small_square: https://github.com/orgs/Vendic/repositories
-
-:black_medium_small_square: https://github.com/orgs/yireo-training/repositories
-
-:black_medium_small_square: https://github.com/orgs/Smile-SA/repositories
-
-:black_medium_small_square: https://github.com/orgs/EaDesgin/repositories
-
-:black_medium_small_square: https://github.com/orgs/extdn/repositories
-
-:black_medium_small_square: https://github.com/orgs/integer-net/repositories
-
-:black_medium_small_square: https://github.com/orgs/AmpersandHQ/repositories
-
-:black_medium_small_square: https://github.com/orgs/magento-hackathon/repositories
-
-:black_medium_small_square: https://github.com/orgs/elgentos/repositories
-
-:black_medium_small_square: https://github.com/orgs/Siteation/repositories
-
-:black_medium_small_square: https://github.com/orgs/mage2pro/repositories
-
-:black_medium_small_square: https://github.com/orgs/bitExpert/repositories
-
-:black_medium_small_square: https://github.com/orgs/EcomDev/repositories
-
-:black_medium_small_square: https://github.com/orgs/mavenecommerce/repositories
-
-:black_medium_small_square: https://github.com/orgs/dnafactory/repositories
-
-:black_medium_small_square: https://github.com/orgs/sitewards/repositories
-
-:black_medium_small_square: https://github.com/orgs/customgento/repositories
-
-:black_medium_small_square: https://github.com/orgs/flancer32/repositories
-
-:black_medium_small_square: https://github.com/orgs/lizardmedia/repositories
-
-:black_medium_small_square: https://github.com/orgs/Magenerds/repositories
-
-:black_medium_small_square: https://github.com/AmastyLtd-zz?tab=repositories
 
 
 ## :writing_hand:	 Blogs:
@@ -142,6 +89,60 @@
 
 :black_medium_small_square: [justwebdevelopment.com](https://www.justwebdevelopment.com/blog/category/magento2/)
 
+## :office: Companies:
+
+:black_medium_small_square: https://github.com/orgs/swissup/repositories
+
+:black_medium_small_square: https://github.com/orgs/magepow/repositories
+
+:black_medium_small_square: https://github.com/orgs/magepal/repositories
+
+:black_medium_small_square: https://github.com/orgs/magespecialist/repositories
+
+:black_medium_small_square: https://github.com/orgs/magesuite/repositories
+
+:black_medium_small_square: https://github.com/orgs/Vendic/repositories
+
+:black_medium_small_square: https://github.com/orgs/yireo-training/repositories
+
+:black_medium_small_square: https://github.com/orgs/Smile-SA/repositories
+
+:black_medium_small_square: https://github.com/orgs/EaDesgin/repositories
+
+:black_medium_small_square: https://github.com/orgs/extdn/repositories
+
+:black_medium_small_square: https://github.com/orgs/integer-net/repositories
+
+:black_medium_small_square: https://github.com/orgs/AmpersandHQ/repositories
+
+:black_medium_small_square: https://github.com/orgs/magento-hackathon/repositories
+
+:black_medium_small_square: https://github.com/orgs/elgentos/repositories
+
+:black_medium_small_square: https://github.com/orgs/Siteation/repositories
+
+:black_medium_small_square: https://github.com/orgs/mage2pro/repositories
+
+:black_medium_small_square: https://github.com/orgs/bitExpert/repositories
+
+:black_medium_small_square: https://github.com/orgs/EcomDev/repositories
+
+:black_medium_small_square: https://github.com/orgs/mavenecommerce/repositories
+
+:black_medium_small_square: https://github.com/orgs/dnafactory/repositories
+
+:black_medium_small_square: https://github.com/orgs/sitewards/repositories
+
+:black_medium_small_square: https://github.com/orgs/customgento/repositories
+
+:black_medium_small_square: https://github.com/orgs/flancer32/repositories
+
+:black_medium_small_square: https://github.com/orgs/lizardmedia/repositories
+
+:black_medium_small_square: https://github.com/orgs/Magenerds/repositories
+
+:black_medium_small_square: https://github.com/AmastyLtd-zz?tab=repositories
+
 
 ## :free: Free	M2 modules (companies):
 
@@ -165,6 +166,6 @@
 
 
 ## :rocket: Find more on GitHub:
-:black_medium_small_square: https://github.com/topics/magento2
+:black_medium_small_square: [Topic "Magento 2"](https://github.com/topics/magento2])
 
-:black_medium_small_square: https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users
+:black_medium_small_square: [Search for "Magento 2 Certified Developers"](https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users)
