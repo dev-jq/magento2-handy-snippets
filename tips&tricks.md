@@ -51,6 +51,18 @@ cd app/code && grep --recursive -l 'cacheable="false"' * && cd ../..;
 cd vendor && grep --recursive -l 'cacheable="false"' * && cd ..;
 ```
 
+## :point_right: Dump Magento2 database (for development purpose) without all logs, sessions, admin users, orders, and customers
+```
+n98-magerun2.phar db:dump --strip="@development"
+```
+
+**TIP**: to install n98-magerun2 run below command in your Linux terminal:
+```
+wget https://files.magerun.net/n98-magerun2.phar
+chmod +x ./n98-magerun2.phar
+./n98-magerun2.phar --version
+```
+
 ## :point_right: Overview list of caches in Magento 2
 ***Configuration***: After adapting configuration files, it is necessary to flush them including configuration and store specific settings
 
