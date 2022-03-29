@@ -1,6 +1,7 @@
 # My Magento 2 awesome resources :star_struck:
 
 ### :point_right: My [XML snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/xml.md)
+### :point_right: My [javascript snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/javascript.md)
 ### :point_right: My [.phtml template snippets](https://github.com/jq91/magento2-handy-snippets/blob/master/phtml.md)
 ### :point_right: My [_module.less base file](https://github.com/jq91/magento2-handy-snippets/blob/master/_module.less)
 ### :point_right: My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
