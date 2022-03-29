@@ -91,6 +91,8 @@
 
 :black_medium_small_square: [justwebdevelopment.com](https://www.justwebdevelopment.com/blog/category/magento2/)
 
+:black_medium_small_square: [rohanhapani.com](https://www.rohanhapani.com/category/magento/magento-2/)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
