@@ -154,6 +154,8 @@
 
 :black_medium_small_square: https://github.com/orgs/hungersoft/repositories
 
+:black_medium_small_square: https://github.com/orgs/bitbull-team/repositories
+
 
 ## :free: Free	M2 modules (companies):
 
