@@ -148,6 +148,12 @@
 
 :black_medium_small_square: https://github.com/orgs/magemojo/repositories
 
+:black_medium_small_square: https://github.com/orgs/ebizmarts/repositories
+
+:black_medium_small_square: https://github.com/orgs/stenikgroup/repositories
+
+:black_medium_small_square: https://github.com/orgs/hungersoft/repositories
+
 
 ## :free: Free	M2 modules (companies):
 
