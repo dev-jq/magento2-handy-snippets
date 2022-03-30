@@ -78,6 +78,7 @@ php bin/magento catalog:image:resize
 ```
 php bin/magento admin:user:create
 php bin/magento info:adminuri
+php bin/magento admin:user:unlock USERNAME
 ```
 
 **Get list of all available commands**
