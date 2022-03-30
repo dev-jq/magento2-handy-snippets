@@ -93,6 +93,8 @@
 
 :black_medium_small_square: [rohanhapani.com](https://www.rohanhapani.com/category/magento/magento-2/)
 
+:black_medium_small_square: [shahednasser.com](https://blog.shahednasser.com/tag/magento)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
@@ -184,4 +186,4 @@
 ## :rocket: Find more on GitHub:
 :black_medium_small_square: [Topic "Magento 2"](https://github.com/topics/magento2])
 
-:black_medium_small_square: [Search for "Magento 2 Certified Developers"](https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users)
+:black_medium_small_square: [Search for: Magento 2 Certified Developers](https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users)
