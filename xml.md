@@ -5,7 +5,8 @@
 
 ## Custom block with template
 ```
-<block name="my_block" class="Magento/Framework/View/Element/Template" template="Vendor_Module::my-template.phtml" />
+<block class="Magento\Framework\View\Element\Template" name="my_block" template="Vendor_Module::my-template.phtml" /> ( after="-" or before="-" )
+<block class="Magento\Framework\View\Element\Template" name="footer_logo_brands" template="Magento_Theme::html/brand-logos.phtml" after="footer_links"/> 
 ```
 
 ## Two ways set template in xml
