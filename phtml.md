@@ -2,6 +2,16 @@
 ```
 <?= __('String to translate'); ?>
 ```
+
+## Call static block ID in template (if exist/enabled/not empty)
+```
+<?php if($this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml() != ''): ?>
+    <div class="static-block">
+        <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
+    </div>
+<?php endif; ?>
+```
+
 ## Call method from module helper
 ```
 <?php $helper = $this->helper('Vendor\Module\Helper\Data'); ?>
