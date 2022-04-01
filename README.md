@@ -95,6 +95,8 @@
 
 :black_medium_small_square: [shahednasser.com](https://blog.shahednasser.com/tag/magento)
 
+:black_medium_small_square: [M.academy](https://m.academy/blog/)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
@@ -160,6 +162,8 @@
 :black_medium_small_square: https://github.com/orgs/hungersoft/repositories
 
 :black_medium_small_square: https://github.com/orgs/bitbull-team/repositories
+
+:black_medium_small_square: https://github.com/orgs/comwrap/repositories
 
 
 ## :free: Free	M2 modules (companies):
