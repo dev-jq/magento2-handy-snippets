@@ -1,3 +1,6 @@
+## :point_right: Luma icons list
+![Magento_Luma icons list](https://i.imgur.com/OgPXPd0.png)
+
 ## :point_right: When you should run which commands in Magento 2?
 ### `php bin/magento setup:upgrade`
 ```
