@@ -67,6 +67,7 @@ php -d memory_limit=2048M bin/magento indexer:reindex
 **Generate a translation package for a definite module**
 ```
 php bin/magento i18n:collect-phrases -o app/code/Module/Vendor/i18n/pl_PL.csv app/code/Module/Vendor/
+php bin/magento i18n:collect-phrases --output="app/design/frontend//Module/Vendor/i18n/pl_PL.csv" --magento
 ```
 
 **Catalog Images Resize:**
