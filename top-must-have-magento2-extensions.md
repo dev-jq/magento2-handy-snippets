@@ -18,3 +18,7 @@
 5. [Mageplaza_Smtp](https://github.com/mageplaza/magento-2-smtp) - SMTP configurations and email logging (all the emails sent out from your store will be kept in log)
 
 ![Magento 2 SMTP - AVADA Email Marketing Integration](https://camo.githubusercontent.com/94fcf96881393b05bc5347a248afd516e5267d02a6bd70bb188cb5074baa5b4a/68747470733a2f2f692e696d6775722e636f6d2f6b354b66444c4c2e706e67)
+
+## Also worth checking out
+- [Bold Commerce: Order Comments](https://github.com/boldcommerce/magento2-ordercomments) - extension allows customers to place a comment during the checkout. The comment field is displayed in the billing step right above the place order button.
+- [Magefan: Blog](https://github.com/magefan/module-blog) - blog extension is a multifunctional marketing tool that will not only help you drive more traffic but boost SEO and improve your Google rating
