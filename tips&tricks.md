@@ -1,6 +1,9 @@
 ## :point_right: Luma icons list
 ![Magento_Luma icons list](https://i.imgur.com/OgPXPd0.png)
 
+## :point_right:How to add other icons pack to Magento 2 (e.g. Bootstrap Icons, Material Icons)?
+Check this out: https://github.com/GrimLink/magento2-icon-packs
+
 ## :point_right: When you should run which commands in Magento 2?
 ### `php bin/magento setup:upgrade`
 ```
