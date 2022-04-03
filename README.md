@@ -99,6 +99,8 @@
 
 :black_medium_small_square: [M.academy](https://m.academy/blog/)
 
+:black_medium_small_square: [aureatelabs.com](https://aureatelabs.com/category/magento-2/)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
