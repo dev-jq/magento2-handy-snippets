@@ -5,6 +5,7 @@
 `Check this out:` https://github.com/GrimLink/magento2-icon-packs
 
 ## :point_right:How to create patch file?
+https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/patches/apply.html
 ```
 diff -u File.php File-new.php > File.patch
 ```
