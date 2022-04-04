@@ -4,6 +4,40 @@
 ## :point_right:How to add other icons pack to Magento 2 (e.g. Bootstrap Icons, Material Icons)?
 `Check this out:` https://github.com/GrimLink/magento2-icon-packs
 
+## :point_right:How to create patch file?
+```
+diff -u File.php File-new.php > File.patch
+```
+
+## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
+in file:
+```
+vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
+```
+
+in line 71 (before: 'relativeUrls' => false) add this code:
+`'sourceMap' => true,`
+
+## :point_right: Find cacheable="false" blocks in templates
+
+```
+cd app/design/frontend/ && grep --recursive -l 'cacheable="false"' * && cd ../../..;
+cd app/code && grep --recursive -l 'cacheable="false"' * && cd ../..;
+cd vendor && grep --recursive -l 'cacheable="false"' * && cd ..;
+```
+
+## :point_right: Dump Magento2 database (for development purpose) without all logs, sessions, admin users, orders, and customers
+```
+n98-magerun2.phar db:dump --strip="@development"
+```
+
+**TIP**: to install n98-magerun2 run below command in your Linux terminal:
+```
+wget https://files.magerun.net/n98-magerun2.phar
+chmod +x ./n98-magerun2.phar
+./n98-magerun2.phar --version
+```
+
 ## :point_right: When you should run which commands in Magento 2?
 ### `php bin/magento setup:upgrade`
 ```
@@ -38,35 +72,6 @@ You need to run this command, if you made changes in:
 - ui component
 - phtml or overrite html
 - js in frontend theme
-```
-
-## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
-in file:
-```
-vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
-```
-
-in line 71 (before: 'relativeUrls' => false) add this code:
-`'sourceMap' => true,`
-
-## :point_right: Find cacheable="false" blocks in templates
-
-```
-cd app/design/frontend/ && grep --recursive -l 'cacheable="false"' * && cd ../../..;
-cd app/code && grep --recursive -l 'cacheable="false"' * && cd ../..;
-cd vendor && grep --recursive -l 'cacheable="false"' * && cd ..;
-```
-
-## :point_right: Dump Magento2 database (for development purpose) without all logs, sessions, admin users, orders, and customers
-```
-n98-magerun2.phar db:dump --strip="@development"
-```
-
-**TIP**: to install n98-magerun2 run below command in your Linux terminal:
-```
-wget https://files.magerun.net/n98-magerun2.phar
-chmod +x ./n98-magerun2.phar
-./n98-magerun2.phar --version
 ```
 
 ## :point_right: Overview list of caches in Magento 2
