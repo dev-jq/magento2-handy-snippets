@@ -30,6 +30,7 @@ $block->getChildChildHtml('block.name');
 $block->getBlockHtml('block.name');
 $block->escapeHtml();
 $block->escapeUrl();
+$block->stripTags(); // removes HTML tags
 
 $block->escapeHtml('value', $allowedTags);
 $block->escapeHtmlAttr('value', $escapeSingleQuote);
