@@ -171,6 +171,8 @@
 
 :black_medium_small_square: https://github.com/orgs/Sebwite/repositories
 
+:black_medium_small_square: https://github.com/orgs/weprovide/repositories
+
 
 ## :free: Free	M2 modules (companies):
 
