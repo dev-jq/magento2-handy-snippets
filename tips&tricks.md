@@ -1,5 +1,8 @@
-## :point_right: Luma icons list
-![Magento_Luma icons list](https://i.imgur.com/OgPXPd0.png)
+## :point_right:  Simple way to debug Knockout in browser console by 𝐫𝐞𝐪𝐮𝐢𝐫𝐞('𝐮𝐢𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐲').𝐠𝐞𝐭(𝐬𝐜𝐨𝐩𝐞)
+![Debug Knockout in browser console](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/debug-knockout.jpg)
+
+## :point_right: How to use Luma icons (list with CSS code)
+![Magento_Luma icons list](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/luma-icons.png)
 
 ## :point_right:How to add other icons pack to Magento 2 (e.g. Bootstrap Icons, Material Icons)?
 `Check this out:` https://github.com/GrimLink/magento2-icon-packs
