@@ -3,7 +3,8 @@
 
 ## Store URL
 `{{store url='customer/account'}}` - with slash at the end
-'{{store direct_url='contact-us'}}' - without slash at the end
+
+`{{store direct_url='contact-us'}}` - without slash at the end
 
 ## Media URL
 `{{media url='wysiwyg/your-image.jpg'}}`
