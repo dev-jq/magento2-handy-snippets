@@ -50,3 +50,40 @@ $this->getLayout()->getUpdate()->getHandles();
   // do something
 <?php endif; ?>
 ```
+
+## 2 ways to call Fotorama gallery script
+
+```
+<script type="text/x-magento-init">
+    {
+        "[data-gallery-role=gallery-placeholder]": {
+            "mage/gallery/gallery": {
+                "mixins":["magnifier/magnify"],
+                "magnifierOpts": <?= $block->getMagnifier() ?>,
+                "data": <?= $block->getGalleryImagesJson() ?>,
+                "options": <?= $block->getGalleryOptions()->getOptionsJson() ?>,
+                "fullscreen": <?= $block->getGalleryOptions()->getFSOptionsJson() ?>,
+                "breakpoints": <?= $block->getBreakpoints() ?>
+            }
+        }
+    }
+</script>
+```
+```
+<script>
+    require(['jquery', 'mage/gallery/gallery'], function ($, gallery) {
+        $(function () {
+            $('[data-gallery-role="gallery-placeholder"]').each(function(index, element) {
+                gallery({
+                    "mixins":["magnifier/magnify"],
+                    "magnifierOpts": <?= $block->getMagnifier() ?>,
+                    "data": <?= $block->getGalleryImagesJson() ?>,
+                    "options": <?= $block->getGalleryOptions()->getOptionsJson() ?>,
+                    "fullscreen": <?= $block->getGalleryOptions()->getFSOptionsJson() ?>,
+                    "breakpoints": <?= $block->getBreakpoints() ?>
+                }, element);
+             });
+        });
+    });
+</script>
+```
