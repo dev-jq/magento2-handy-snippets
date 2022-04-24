@@ -101,6 +101,8 @@
 
 :black_medium_small_square: [aureatelabs.com](https://aureatelabs.com/category/magento-2/)
 
+:black_medium_small_square: [blog.magepsycho.com](https://blog.magepsycho.com) :star:
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
