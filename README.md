@@ -103,6 +103,8 @@
 
 :black_medium_small_square: [blog.magepsycho.com](https://blog.magepsycho.com) :star:
 
+:black_medium_small_square: [olegnax.com](https://olegnax.com/category/magento-2/)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
