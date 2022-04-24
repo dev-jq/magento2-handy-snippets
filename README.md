@@ -27,6 +27,17 @@
 :black_medium_small_square: [DominicWatts](https://github.com/DominicWatts)
 
 
+## :man_student: Certification:
+
+:black_medium_small_square: [Quizes: front-end developer certification practiceexam](https://www.goconqr.com/p/15702242/question/8855829-magento-2-front-end-developer-certification-practice-exam-quizzes) :star:
+
+:black_medium_small_square: [Training PDFs resources](https://github.com/fisheye-academy/m2cpfed-training) :star:
+
+:black_medium_small_square: [goconqr.com/en/tags/magento+2](https://www.goconqr.com/en/tags/magento+2)
+
+:black_medium_small_square: [firebearstudio: How to Pass the Magento 2 Certification](https://firebearstudio.com/blog/how-to-pass-the-magento-2-certification.html)
+
+
 ## :writing_hand:	 Blogs:
 
 :black_medium_small_square: [dhairvi.com](https://www.dhairvi.com/category/magento2/) :star:
