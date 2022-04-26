@@ -87,3 +87,28 @@ $this->getLayout()->getUpdate()->getHandles();
     });
 </script>
 ```
+
+## script initialization
+standard
+```
+<div class="swiper-container header-slider" data-mage-init='{"Swissup_Swiper/js/swiper": {"loop":true,"centeredSlides":true,"autoplay": {"delay": 10000}, "navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev"}}}'>
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">1</div>
+        <div class="swiper-slide">2</div>
+        <div class="swiper-slide">3</div>
+   </div>
+</div>
+```
+or better:
+```
+<script type="text/lazy">
+    require(['jquery', 'Swissup_Swiper/js/swiper'], function ($, swiper) {
+        $(function() {
+            $('.header-slider').each(function(index, element) {
+                swiper({"loop":true,"centeredSlides":true,"autoplay": {"delay": 10000}, "navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev"}}, element);
+             });
+        });
+    });
+</script>
+```
+
