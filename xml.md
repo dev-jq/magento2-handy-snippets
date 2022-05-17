@@ -3,6 +3,17 @@
 ` remove="true" // or "false" `
 ` display="true" // or "false" `
 
+## ESI Block
+Only when full page cache application is set to Varnish, ESI blocks are actual. ESI block is fetched by separate Varnish request, cached and invalidated independently from the page.
+
+### You should use the ESI block in the following situations:
+- The block is considered to be invalidated more frequently than pages where this block is rendered.
+- The block is considered to be invalidated less frequently than pages where this block is rendered.
+
+```
+<block class="MyBlock\Class" ttl="3600"/>
+```
+
 ## Custom block with template
 ```
 <block class="Magento\Framework\View\Element\Template" name="my_block" template="Vendor_Module::my-template.phtml" /> ( after="-" or before="-" )
