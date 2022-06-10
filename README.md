@@ -131,7 +131,7 @@
 
 :black_medium_small_square: https://github.com/orgs/Vendic/repositories
 
-:black_medium_small_square: https://github.com/orgs/yireo-training/repositories
+:black_medium_small_square: https://github.com/orgs/yireo-training/repositories :star:
 
 :black_medium_small_square: https://github.com/orgs/Smile-SA/repositories
 
