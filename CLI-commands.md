@@ -54,7 +54,7 @@ php bin/magento setup:static-content:deploy pl_PL en_US en_GB --jobs 20
 **Setup config:**
 ```
 php bin/magento setup:store-config:set --base-url="http://project.dev/"
-php bin/magento setup:store-config:set --base-url-secure="http://project.dev/"
+php bin/magento setup:store-config:set --base-url-secure="https://project.dev/"
 
 php bin/magento config:set admin/security/session_lifetime 604800 ( 86400 = 1 day / 604800 = 7 days / 31536000 = 1 year / etc )
 php bin/magento config:set admin/security/password_is_forced 0
