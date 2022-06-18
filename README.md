@@ -8,6 +8,7 @@
 ### :point_right: My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
 ### :point_right: My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 ### :point_right: In my opinion [top MUST HAVE Magento 2 extensions](https://github.com/jq91/magento2-handy-snippets/blob/master/top-must-have-magento2-extensions.md)
+### :point_right: Preparation for certification - [PDFs](https://github.com/jq91/magento2-handy-snippets/tree/master/certification)
 ### :point_right: Best practice [.gitignore file ](https://github.com/jq91/magento2-handy-snippets/blob/master/gitignore) by @jissereitsma
 
 # Or see my Magento 2 bookmarks :star_struck:
