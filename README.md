@@ -172,7 +172,7 @@
 
 :black_medium_small_square: https://github.com/AmastyLtd-zz?tab=repositories
 
-:black_medium_small_square: https://github.com/experius/repositories
+:black_medium_small_square: https://github.com/orgs/experius/repositories
 
 :black_medium_small_square: https://github.com/orgs/magemojo/repositories
 
