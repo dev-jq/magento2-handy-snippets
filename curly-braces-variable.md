@@ -12,6 +12,8 @@
 `{{view url='images/logo.svg'}}`
 
 ## Block ID
+`{{block class="Magento\Cms\Block\Block" block_id="block_identifier"}}`
+
 `{{block class="Magento\Contact\Block\ContactForm" name="contactForm" template="Magento_Contact::form.phtml"}}`
 
 `{{block type="catalog/product_list" category_id="22" template="catalog/product/list.phtml"}}`
