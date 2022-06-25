@@ -5,7 +5,10 @@ https://placehold.co/945x330/f8f8f8/lightgray.png
 
 ![Image placeholder](https://placehold.co/945x330/f8f8f8/lightgray.png)
 
-## :point_right:  Simple way to debug Knockout in browser console by 𝐫𝐞𝐪𝐮𝐢𝐫𝐞('𝐮𝐢𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐲').𝐠𝐞𝐭(𝐬𝐜𝐨𝐩𝐞)
+## :point_right: If you can’t see symlinks in pub static folder even after developer mode enabled. There might be the following reason:
+`If your web server is Apache then please make sure .htaccess file in pub/static directory otherwise symlinks will not generate.`
+
+## :point_right: Simple way to debug Knockout in browser console by 𝐫𝐞𝐪𝐮𝐢𝐫𝐞('𝐮𝐢𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐲').𝐠𝐞𝐭(𝐬𝐜𝐨𝐩𝐞)
 ![Debug Knockout in browser console](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/debug-knockout.jpg)
 
 ## :point_right: How to use Luma icons (list with CSS code)
