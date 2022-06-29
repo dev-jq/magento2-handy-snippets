@@ -19,8 +19,9 @@ https://placehold.co/945x330/f8f8f8/lightgray.png
 
 ## :point_right:How to create patch file?
 https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/patches/apply.html
+In File directory:
 ```
-diff -u File.php File-new.php > File.patch
+diff -u File.php File-patch.php > File.diff
 ```
 
 ## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
