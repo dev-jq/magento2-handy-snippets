@@ -8,7 +8,6 @@
 
 ## Media URL
 `{{media url='wysiwyg/your-image.jpg'}}`
-`{{skin url='images/loader-1.gif'}}`
 `{{view url='images/logo.svg'}}`
 
 ## Block ID
