@@ -216,3 +216,6 @@
 :black_medium_small_square: [Topic: Magento 2](https://github.com/topics/magento2)
 
 :black_medium_small_square: [Search for: Magento 2 Certified Developers](https://github.com/search?o=desc&q=Magento+2+Certified+Developer&s=&type=Users)
+
+## :rocket: Magento:
+:black_medium_small_square: [Released versions](https://devdocs.magento.com/release/released-versions.html)
