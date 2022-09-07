@@ -55,6 +55,19 @@ Only when full page cache application is set to Varnish, ESI blocks are actual. 
 </page>
 ```
 
+## Add custom link to top.links (customer dropdown)
+```
+<referenceBlock name="top.links">
+    <block class="Magento\Framework\View\Element\Html\Link" name="acount-create-link">
+        <arguments>
+            <argument name="label" xsi:type="string" translate="true">Create an Account</argument>
+            <argument name="path" xsi:type="string">customer/account/create</argument>
+            <argument name="sortOrder" xsi:type="number">100</argument>
+        </arguments>
+    </block>
+</referenceBlock>
+```
+
 ## Include static resources (JavaScript, CSS, fonts)
 ```
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
