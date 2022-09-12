@@ -51,6 +51,25 @@ $this->getLayout()->getUpdate()->getHandles();
 <?php endif; ?>
 ```
 
+## Media Queries in JavaScript
+```
+<script type="text/javascript">
+        require(['jquery', 'matchMedia'], function ($, mediaCheck) {
+            mediaCheck({
+                media: '(min-width: 768px)',
+                // Switch to Desktop Version
+                entry: function () {
+                   alert('desktop');
+                },
+                // Switch to Mobile Version
+                exit: function () {
+                    alert('mobile');
+                }
+            });
+        });
+    </script>
+```
+
 ## 2 ways to call Fotorama gallery script
 
 ```
