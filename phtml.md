@@ -38,6 +38,19 @@ $block->escapeJs('value');
 $block->escapeUrl($url);
 ```
 
+## Example operations on product attribute
+```
+<?php if($_product->getTypeId() == \Magento\ConfigurableProduct\Model\Product\Type\Configurable::TYPE_CODE): ?>
+        <?php
+        $deliveryTime = $_product->getResource()->getAttribute('delivery_time');
+        $minDeliveryTime = $deliveryTime->getFrontend()->getValue($_product);
+        ?>
+        <div class="delivery-time">
+            <?php echo __('Delivery time: %1', $minDeliveryTime); ?>
+        </div>
+<?php endif; ?>
+```
+
 ## Can be used to get the list of handles while debugging
 ```
 $this->getLayout()->getUpdate()->getHandles();
