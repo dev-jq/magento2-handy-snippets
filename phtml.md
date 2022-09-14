@@ -51,6 +51,17 @@ $block->escapeUrl($url);
 <?php endif; ?>
 ```
 
+## Execute JavaScript code after swatches are displayed in category view
+```
+<script>
+    require(['jquery', 'Magento_Swatches/js/swatch-renderer'], function ($, swatch) {
+        $(document).on('swatch.initialized', function() {
+            // Here make some layout changes
+        });
+    });
+</script>  
+```
+
 ## Can be used to get the list of handles while debugging
 ```
 $this->getLayout()->getUpdate()->getHandles();
