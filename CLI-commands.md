@@ -63,7 +63,12 @@ php bin/magento config:set admin/security/password_is_forced 0
 
 **Indexer ( Reindex | Reset ):**
 ```
+php bin/magento indexer:reset
 php -d memory_limit=2048M bin/magento indexer:reindex
+
+php bin/magento indexer:status
+php bin/magento indexer:reset cataloginventory_stock
+php bin/magento indexer:reindex cataloginventory_stock
 ```
 
 **Generate a translation package for a definite module**
