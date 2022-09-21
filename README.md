@@ -46,7 +46,7 @@
 
 :black_medium_small_square: [rakeshjesadiya.com](https://www.rakeshjesadiya.com/category/magento-2/)
 
-:black_medium_small_square: [magezon.com](https://blog.magezon.com/magento-tutorials/) :star:
+:black_medium_small_square: [magezon.com](https://blog.magezon.com/magento-tips-and-news/magento-2-tutorials/) :star:
 
 :black_medium_small_square: [magevision.com](https://www.magevision.com/blog)
 
