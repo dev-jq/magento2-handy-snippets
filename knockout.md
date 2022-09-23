@@ -1,3 +1,30 @@
+# Commomn examples
+```
+<div data-bind="mageInit: {'collapsible':{'openedState': '_active', 'active': true}}">
+...
+</div>
+```
+```
+<textarea class="input-text" data-bind="attr:{placeholder: $t('Enter your comment...')} "></textarea>
+```
+```
+<a href="#" data-bind="attr:{href: product_url}, html: name" class="product-item-link"></a>
+```
+```
+<span data-bind="i18n: 'Forgot Your Password?'"></span>
+```
+```
+<div class="minicart">
+  <span class="text"><!-- ko i18n: 'My Cart' --><!-- /ko --></span>
+  <span class="qty empty"
+        data-bind="css: { empty: !!getCartParam('summary_count') == false },
+                         attr: { title: $t('Items in Cart') }">
+        <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+   </span>
+</dv>
+```
+
+
 # Binding
 ## if
 ```
