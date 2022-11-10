@@ -8,6 +8,7 @@
 ### :point_right: My [{{variable}} snippets list](https://github.com/jq91/magento2-handy-snippets/blob/master/curly-braces-variable.md)
 ### :point_right: My [CLI - command line list](https://github.com/jq91/magento2-handy-snippets/blob/master/CLI-commands.md)
 ### :point_right: My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
+### :point_right: My [impoved Polish Language Pack for Magento 2.3.x - 2.4.x](https://github.com/jq91/magento2-improved-polish-language-pack)
 ### :point_right: In my opinion [top MUST HAVE Magento 2 extensions](https://github.com/jq91/magento2-handy-snippets/blob/master/top-must-have-magento2-extensions.md)
 ### :point_right: Preparation for certification - [PDFs](https://github.com/jq91/magento2-handy-snippets/tree/master/certification)
 ### :point_right: Best practice [.gitignore file ](https://github.com/jq91/magento2-handy-snippets/blob/master/gitignore) by @jissereitsma
