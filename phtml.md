@@ -22,6 +22,7 @@
 ```
 $block->getViewFileUrl();
 $block->getUrl('checkout/cart/index');
+$this->getUrl('', array('_direct'=>'hairproducts.html', '_query'=>'manufacturer=412'));
 $block->getBaseUrl();
 $block->getMediaDirectory();
 $block->getChildBlock('block.name');
