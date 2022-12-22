@@ -20,6 +20,13 @@ Only when full page cache application is set to Varnish, ESI blocks are actual. 
 <block class="Magento\Framework\View\Element\Template" name="footer_logo_brands" template="Magento_Theme::html/brand-logos.phtml" after="footer_links"/> 
 ```
 
+## Block inside container
+```
+<container name="some.block.wrapper" htmlTag="div" htmlClass="container">
+      // block here
+</container>
+```
+
 ## Call static block from XML
 ```
 <referenceContainer name="footer-container">
