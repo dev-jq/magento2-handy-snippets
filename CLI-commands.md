@@ -32,6 +32,24 @@ php bin/magento c:f ( cache:flush }
 php bin/magento c:c ( cache:clean }
 php bin/magento cache:disable full_page layout block_html translate
 ```
+**Default Cache types:**
+```
+ config
+ layout
+ block_html
+ collections
+ reflection
+ db_ddl
+ compiled_config
+ eav
+ customer_notification
+ config_integration
+ config_integration_api
+ full_page
+ config_webservice
+ translate
+ vertex
+```
 
 **Module oprations (check current status / disable module / enable module):**
 ```
