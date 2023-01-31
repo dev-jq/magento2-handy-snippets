@@ -51,6 +51,11 @@ $block->escapeUrl($url);
         </div>
 <?php endif; ?>
 ```
+``
+<?= $product->getAttributeText('color') ?> - value as 'text' label
+<?= $product->getResource()->getAttribute('color')->getFrontend()->getValue($product); ?> - value as 'text' label
+<?= $product->getData('color') ?> - value as 'id attribute number'
+``
 
 ## Execute JavaScript code after swatches are displayed in category view
 ```
