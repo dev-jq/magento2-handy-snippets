@@ -44,6 +44,8 @@
 
 ## :writing_hand:	 Blogs:
 
+:black_medium_small_square: [aureatelabs.com](https://aureatelabs.com/blog/tag/magento-2/) :star:
+
 :black_medium_small_square: [dhairvi.com](https://www.dhairvi.com/category/magento2/) :star:
 
 :black_medium_small_square: [rakeshjesadiya.com](https://www.rakeshjesadiya.com/category/magento-2/)
