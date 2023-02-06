@@ -1,9 +1,14 @@
-//media all (styles-m.css)
+// media all (styles-m.css)
 & when (@media-common = true) {
 
 }
+
+// only mobile-small: maximum 479px
+.media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__xs) {
+
+}
  
-// only mobile: maximum 767px
+// only mobile-all: maximum 767px
 .media-width(@extremum, @break) when (@extremum = 'max') and (@break = @screen__m) {
 
 }
@@ -23,10 +28,20 @@
 
 }
 
+// non-mobile breakpoint in media all (styles-m.css)
+& when (@media-common = true) {
+    
+   // custom: maximum 1023px
+    @media screen and (max-width: @screen__l) {
+        
+    }
+
+}
+
 // media large (styles-l.css)
 & when (@media-common = false) {
   
-   // non standard Magento breakpoint
+   // e.g. non-standard Magento breakpoint
    @media screen and (min-width: 1200px) {
     
    }
