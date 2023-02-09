@@ -1,15 +1,11 @@
-## :point_right: Fast way to get image placeholders (with parametrers in url)
+## :point_right: How to disable Page Builder in Magento 2? (completely from the system and not just in the admin configuration)
 ```
-https://placehold.co/945x330/f8f8f8/lightgray.png
+bin/magento module:disable Magento_PageBuilderAnalytics Magento_CatalogPageBuilderAnalytics Magento_CmsPageBuilderAnalytics Magento_PageBuilder
+bin/magento setup:di:compile
 ```
-
-![Image placeholder](https://placehold.co/945x330/f8f8f8/lightgray.png)
 
 ## :point_right: If you can’t see symlinks in pub static folder even after developer mode enabled. There might be the following reason:
 `If your web server is Apache then please make sure .htaccess file in pub/static directory otherwise symlinks will not generate.`
-
-## :point_right: Simple way to debug Knockout in browser console by 𝐫𝐞𝐪𝐮𝐢𝐫𝐞('𝐮𝐢𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐲').𝐠𝐞𝐭(𝐬𝐜𝐨𝐩𝐞)
-![Debug Knockout in browser console](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/debug-knockout.jpg)
 
 ## :point_right: How to use Luma icons (list with CSS code)
 ![Magento_Luma icons list](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/luma-icons.png)
@@ -52,6 +48,9 @@ wget https://files.magerun.net/n98-magerun2.phar
 chmod +x ./n98-magerun2.phar
 ./n98-magerun2.phar --version
 ```
+
+## :point_right: Simple way to debug Knockout in browser console by 𝐫𝐞𝐪𝐮𝐢𝐫𝐞('𝐮𝐢𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐲').𝐠𝐞𝐭(𝐬𝐜𝐨𝐩𝐞)
+![Debug Knockout in browser console](https://github.com/jq91/magento2-handy-snippets/blob/master/assets/debug-knockout.jpg)
 
 ## :point_right: When you should run which commands in Magento 2?
 ### `php bin/magento setup:upgrade`
