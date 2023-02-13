@@ -19,7 +19,7 @@ composer require magefan/module-blog
 composer require redchamps/module-clean-admin-menu
 ```
 
-## TOP MUST HAVE (for develipers) - Magento 2 free extensions
+## TOP MUST HAVE (for developers) - Magento 2 free extensions
 :point_right: [Composer Patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer. [Read more here](https://m.academy/blog/how-to-apply-github-commit-magento-core-code/). Applies a patch from a local or remote file to any dependency installed by Composer.
 ```
 composer require cweagans/composer-patches
