@@ -20,9 +20,13 @@
 
 ## Useful block functions
 ```
-$block->getViewFileUrl();
+$block->getViewFileUrl('images/loader-1.gif'); - from web/images directory
+$block->getViewFileUrl('Magento_Catalog::images/filename.jpg'); - from e.g Magento_Catalog/web/images directory
+
 $block->getUrl('checkout/cart/index');
-$this->getUrl('', array('_direct'=>'hairproducts.html', '_query'=>'manufacturer=412'));
+$block->getUrl('', array('_direct'=>'hairproducts.html'));
+$block->getUrl('', array('_direct'=>'hairproducts.html', '_query'=>'manufacturer=412'));
+
 $block->getBaseUrl();
 $block->getMediaDirectory();
 $block->getChildBlock('block.name');
