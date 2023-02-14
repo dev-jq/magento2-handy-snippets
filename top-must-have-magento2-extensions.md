@@ -30,6 +30,11 @@ composer require cweagans/composer-patches
 composer require magepal/magento2-preview-checkout-success-page
 ```
 
+:point_right: [Email Tester](https://github.com/yireo/Yireo_EmailTester2) - Preview any transactional email in your Magento 2 backend
+```
+composer require yireo/magento2-emailtester2
+```
+
 :point_right: [Module Conflict Detector](https://github.com/magefan/module-conflict-detector) - allows you to detect class rewrite conflicts easy in Magento 2 Store.
 ```
 composer require magefan/module-conflict-detector
