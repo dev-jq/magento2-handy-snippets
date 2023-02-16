@@ -3,13 +3,25 @@
 <?= __('String to translate'); ?>
 ```
 
-## Call static block ID in template (if exist/enabled/not empty)
+## Call static block ID in .phtml  template (if exist/enabled/not empty)
 ```
 <?php if($this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml() != ''): ?>
     <div class="static-block">
         <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
     </div>
 <?php endif; ?>
+```
+
+## Call widget in .phtml template
+```
+<?= $this->getLayout()->createBlock("Magento\Catalog\Block\Product\Widget\NewWidget")
+            ->setDisplayType("all_products")
+            ->setShowPager(1)
+            ->setProductsPerPage(5)
+            ->setProductsCount(10)
+            ->setPageVarName("pwkvbl")
+            ->setTemplate("product/widget/new/content/new_grid.phtml")
+            ->toHtml(); ?>
 ```
 
 ## Call method from module helper
