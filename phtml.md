@@ -30,6 +30,12 @@
 <?php $helper->callMethodName(); ?>
 ```
 
+## Get VAR value from /etc/view.xml in phtml
+```
+<?= $block->getVar("gallery/width", 'Magento_Catalog'); ?>
+<?= $block->getVar("breakpoints/mobile/conditions/max-width", 'Magento_Catalog'); ?>
+```
+
 ## Useful block functions
 ```
 $block->getViewFileUrl('images/loader-1.gif'); - from web/images directory
