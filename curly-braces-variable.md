@@ -13,7 +13,7 @@
 ## Block ID
 `{{block class="Magento\Cms\Block\Block" block_id="block_identifier"}}`
 
-`{{block class="Magento\Cms\Block\Block" name="custom.block" template="Magento_Cms::custom.phtml"}}`
+`{{block class="Magento\Framework\View\Element\Template" name="custom.template.block" template="Magento_Cms::custom.phtml"}}`
 
 `{{block class="Magento\Contact\Block\ContactForm" name="contactForm" template="Magento_Contact::form.phtml"}}`
 
