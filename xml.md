@@ -20,6 +20,11 @@ Only when full page cache application is set to Varnish, ESI blocks are actual. 
 <block class="Magento\Framework\View\Element\Template" name="footer_logo_brands" template="Magento_Theme::html/brand-logos.phtml" after="footer_links"/> 
 ```
 
+## Block with configuration condition
+```
+<block class="Magento\Newsletter\Block\Subscribe" name="form.subscribe" as="subscribe" before="-" template="Magento_Newsletter::subscribe.phtml" ifconfig="newsletter/general/active"/>
+```
+
 ## Block inside container
 ```
 <container name="some.block.wrapper" htmlTag="div" htmlClass="container">
