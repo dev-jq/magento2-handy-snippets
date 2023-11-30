@@ -153,3 +153,12 @@ Only when full page cache application is set to Varnish, ESI blocks are actual. 
      <attribute name="class" value="my-new-body-class"/>
 </body>
 ```
+
+## Set custom page title
+```
+<referenceBlock name="page.main.title">
+     <action method="setPageTitle">
+          <argument translate="true" name="title" xsi:type="string">My title</argument>
+     </action>
+</referenceBlock>
+```
