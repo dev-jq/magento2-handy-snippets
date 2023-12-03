@@ -9,6 +9,7 @@
 ## Media URL
 `{{media url='wysiwyg/your-image.jpg'}}`
 `{{view url='images/logo.svg'}}`
+`{{view url='Magento_Theme::images/logo.svg'}}`
 
 ## Block ID
 `{{block class="Magento\Cms\Block\Block" block_id="block_identifier"}}`
