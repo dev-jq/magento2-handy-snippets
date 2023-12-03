@@ -20,6 +20,8 @@
 `{{block type="catalog/product_list" category_id="22" template="catalog/product/list.phtml"}}`
 
 ## Widget
+`{{widget type="Magento\Cms\Block\Widget\Block" template="widget/static_block/default.phtml" block_id="10"}}`
+
 `{{widget type="catalog/product_widget_new" display_type="new_products" products_count="10" template="catalog/product/widget/new/content/new_grid.phtml"}}`
 
 `{{widget type="catalog/product_widget_link" anchor_text="My Product Link" title="My Product Link" template="catalog/product/widgetlink/link_block.phtml" id_path="product/31"}}`
