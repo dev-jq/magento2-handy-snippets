@@ -123,6 +123,8 @@
 
 :black_medium_small_square: [olegnax.com](https://olegnax.com/category/magento-2/)
 
+:black_medium_small_square: [tigren.com](https://www.tigren.com/blog/)
+
 ## :office: Companies:
 
 :black_medium_small_square: https://github.com/orgs/swissup/repositories
@@ -215,6 +217,8 @@
 :black_medium_small_square: https://www.bubbleshop.net/magento-extensions/free.html
 
 :black_medium_small_square: https://magecomp.com/free-magento-extensions.html
+
+:black_medium_small_square: https://www.tigren.com/magento-2-extensions
 
 
 ## :rocket: Find more on GitHub:
