@@ -228,3 +228,5 @@
 
 ## :rocket: Magento:
 :black_medium_small_square: [Released versions](https://devdocs.magento.com/release/released-versions.html)
+
+:black_medium_small_square: [@liuosio star list](https://github.com/stars/aliuosio/lists/magento)
