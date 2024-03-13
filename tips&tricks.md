@@ -1,3 +1,17 @@
+## :point_right: Difference between 'composer install' and 'composer update'
+In detail ``composer update`` will:
+
+- Read composer.json
+- Remove installed packages that are no more required in composer.json
+- Check the availability of the latest versions of our required packages
+- Install the latest versions of our packages
+- Update composer.lock to store the installed packages version
+
+In detail ``composer install`` will install all of the dependencies as specified in the composer.lock file at the version specified (locked), without updating anything.
+
+- Read composer.lock file
+- Install the packages specified in the composer.lock file
+
 ## :point_right: How to disable Page Builder in Magento 2? (completely from the system and not just in the admin configuration)
 ```
 bin/magento module:disable Magento_PageBuilderAnalytics Magento_CatalogPageBuilderAnalytics Magento_CmsPageBuilderAnalytics Magento_PageBuilder
