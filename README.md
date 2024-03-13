@@ -10,7 +10,7 @@
 ### :point_right: My [Magento 2.x Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 ### :point_right: My [theme Azkarra for Magento 2.x - optimized for Core Web Vitals and SEO](https://github.com/dev-jq/Azkarra-Magento2-Theme-for-Core-Web-Vitals-and-SEO)
 ### :point_right: My [impoved Polish Language Pack for Magento 2.x](https://github.com/jq91/magento2-improved-polish-language-pack)
-### :point_right: In my opinion [top MUST HAVE Magento 2 extensions](https://github.com/jq91/magento2-handy-snippets/blob/master/top-must-have-magento2-extensions.md)
+### :point_right: My [recommendations for Magento 2 FREE & PAID modules](https://github.com/jq91/magento2-handy-snippets/blob/master/top-must-have-magento2-extensions.md)
 ### :point_right: Preparation for certification - [PDFs](https://github.com/jq91/magento2-handy-snippets/tree/master/certification)
 ### :point_right: Best practice [.gitignore file ](https://github.com/jq91/magento2-handy-snippets/blob/master/gitignore) by @jissereitsma
 
