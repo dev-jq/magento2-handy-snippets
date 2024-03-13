@@ -10,6 +10,7 @@
 |:point_right: |[Faonni_MultiFlatShipping](https://github.com/karliuka/m2.MultiFlatShipping) | It will create additional 5 flat rate shipping methods. |``composer require faonni/module-shipping-multi-flat``|
 |:point_right: |[Smartmage_Shipping2Payment](https://bitbucket.org/smartmagepl/magento-2-shipping2payment/) | Module for managing the dependencies between delivery and payment in the order process. Allows you to hide inactive payment methods from selected shipping methods. |https://bitbucket.org/smartmagepl/magento-2-shipping2payment/src/master|
 |:point_right: |[WeltPixel_SocialLogin](https://www.weltpixel.com/magento2-free-social-login-extension.html) | With Social Login extension, customers can create accounts with Facebook, Google, Amazon, PayPal, Twitter, and even LinkedIn. |https://www.weltpixel.com/magento2-free-social-login-extension.html|
+|:point_right: |[Magepow_Instagram](https://github.com/magepow/magento-2-instagram) | Display Instagram posts |``composer require magepow/instagram``|
 
 ## For developers:
 | | Module name | description | installation |
@@ -23,5 +24,7 @@
 # :moneybag: My recommendations for Magento 2 PAID modules :moneybag:
 | | Module name | description | link |
 |:---|---|---|---|
+|:point_right: |Swissup_Navigationpro|(MegaMenu) Navigation Pro|https://swissuplabs.com/magento-extensions/magento-2-navigation-pro-extension.html|
 |:point_right: |Amasty_ILN|Improved Layered Navigation|https://amasty.com/improved-layered-navigation-for-magento-2.html|
-|:point_right: |Swissup_Navigationpro|(MegaMenu) Navigation Pro|[https://amasty.com/improved-layered-navigation-for-magento-2.html](https://swissuplabs.com/magento-extensions/magento-2-navigation-pro-extension.html)https://swissuplabs.com/magento-extensions/magento-2-navigation-pro-extension.html|
+|:point_right: |Amasty_AdvancedReview|Advanced Product Reviews & Review Reminder|https://amasty.com/advanced-product-reviews-for-magento-2.html|
+|:point_right: |Amasty_InvisibleCaptcha|Google Invisible reCaptcha v3|https://amasty.com/google-invisible-recaptcha-for-magento-2.html|
