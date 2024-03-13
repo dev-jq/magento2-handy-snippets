@@ -7,6 +7,9 @@
 |:point_right: |[BoldCommerce_OrderComments](https://github.com/boldcommerce/magento2-ordercomments) | extension allows customers to place a comment during the checkout. The comment field is displayed in the billing step right above the place order button. | ``composer require boldcommerce/magento2-ordercomments`` |
 |:point_right: |[Magefan_Blog](https://github.com/magefan/module-blog) | blog extension is a multifunctional marketing tool that will not only help you drive more traffic but boost SEO and improve your Google rating. | ``composer require magefan/module-blog``|
 |:point_right: |[RedChamps_CleanMenu](https://github.com/redchamps/clean-admin-menu) | It will merge all 3rd party extension's menu items in backend's primary menu to a common menu item named Extensions. |``composer require redchamps/module-clean-admin-menu``|
+|:point_right: |[Faonni_MultiFlatShipping](https://github.com/karliuka/m2.MultiFlatShipping) | It will create additional 5 flat rate shipping methods. |``composer require faonni/module-shipping-multi-flat``|
+|:point_right: |[Smartmage_Shipping2Payment](https://bitbucket.org/smartmagepl/magento-2-shipping2payment/) | Module for managing the dependencies between delivery and payment in the order process. Allows you to hide inactive payment methods from selected shipping methods. |https://bitbucket.org/smartmagepl/magento-2-shipping2payment/src/master|
+|:point_right: |[WeltPixel_SocialLogin](https://www.weltpixel.com/magento2-free-social-login-extension.html) | With Social Login extension, customers can create accounts with Facebook, Google, Amazon, PayPal, Twitter, and even LinkedIn. |https://www.weltpixel.com/magento2-free-social-login-extension.html|
 
 ## For developers:
 | | Module name | description | installation |
