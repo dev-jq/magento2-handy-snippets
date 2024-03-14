@@ -15,6 +15,7 @@
 ### :point_right: My [Tips & Tricks](https://github.com/jq91/magento2-handy-snippets/blob/master/tips%26tricks.md)
 ### :point_right: Preparation for Magento certification - [PDFs](https://github.com/jq91/magento2-handy-snippets/tree/master/certification)
 ### :point_right: Best practice [.gitignore file ](https://github.com/jq91/magento2-handy-snippets/blob/master/gitignore) by @jissereitsma
+### :point_right: Magento 2 supported [software versions compatibility](https://github.com/dev-jq/magento2-versions-compatibility)
 
 # Or see my Magento 2 bookmarks :star_struck:
 
