@@ -90,7 +90,7 @@ php bin/magento indexer:reindex cataloginventory_stock
 
 **Generate a translation package for a definite module**
 ```
-php bin/magento i18n:collect-phrases -o app/code/Module/Vendor/i18n/pl_PL.csv app/code/Module/Vendor/
+php bin/magento i18n:collect-phrases --output="app/code/Module/Vendor/i18n/pl_PL.csv" app/code/Module/Vendor
 php bin/magento i18n:collect-phrases --output="app/design/frontend//Module/Vendor/i18n/pl_PL.csv" --magento (This option adds themes or modules to each line in the dictionary.)
 ```
 
