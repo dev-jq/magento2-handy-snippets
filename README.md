@@ -203,6 +203,8 @@
 
 ## :free: Free	M2 modules (companies):
 
+:black_medium_small_square: https://www.magezon.com/magento-2-extensions/free-extensions.html
+
 :black_medium_small_square: https://bsscommerce.com/magento-2-extensions/free.html
 
 :black_medium_small_square: https://www.weltpixel.com/magento2-extensions.html#wpx-free-extensions
