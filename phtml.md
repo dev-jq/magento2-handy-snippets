@@ -3,39 +3,6 @@
 <?= __('String to translate'); ?>
 ```
 
-## Call static block ID in .phtml  template (if exist/enabled/not empty)
-```
-<?php if($this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml() != ''): ?>
-    <div class="static-block">
-        <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
-    </div>
-<?php endif; ?>
-```
-
-## Call widget in .phtml template
-```
-<?= $this->getLayout()->createBlock("Magento\Catalog\Block\Product\Widget\NewWidget")
-            ->setDisplayType("all_products")
-            ->setShowPager(1)
-            ->setProductsPerPage(5)
-            ->setProductsCount(10)
-            ->setPageVarName("pwkvbl")
-            ->setTemplate("product/widget/new/content/new_grid.phtml")
-            ->toHtml(); ?>
-```
-
-## Call method from module helper
-```
-<?php $helper = $this->helper('Vendor\Module\Helper\Data'); ?>
-<?php $helper->callMethodName(); ?>
-```
-
-## Get VAR value from /etc/view.xml in phtml
-```
-<?= $block->getVar("gallery/width", 'Magento_Catalog'); ?>
-<?= $block->getVar("breakpoints/mobile/conditions/max-width", 'Magento_Catalog'); ?>
-```
-
 ## Useful block functions
 ```
 $block->getViewFileUrl('images/loader-1.gif'); - from web/images directory
@@ -59,6 +26,39 @@ $block->escapeHtml('value', $allowedTags);
 $block->escapeHtmlAttr('value', $escapeSingleQuote);
 $block->escapeJs('value');
 $block->escapeUrl($url);
+```
+
+## Call static block ID in .phtml  template (if exist/enabled/not empty)
+```
+<?php if($this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml() != ''): ?>
+    <div class="static-block">
+        <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
+    </div>
+<?php endif; ?>
+```
+
+## Call widget in .phtml template
+```
+<?= $this->getLayout()->createBlock("Magento\Catalog\Block\Product\Widget\NewWidget")
+            ->setDisplayType("all_products")
+            ->setShowPager(1)
+            ->setProductsPerPage(5)
+            ->setProductsCount(10)
+            ->setPageVarName("pwkvbl")
+            ->setTemplate("product/widget/new/content/new_grid.phtml")
+            ->toHtml(); ?>
+```
+
+## Call method from module helper
+```
+<?php $helper = $this->helper(Vendor\Module\Helper\Data::class); ?>
+<?php $helper->callMethodName(); ?>
+```
+
+## Get VAR value from /etc/view.xml in phtml
+```
+<?= $block->getVar("gallery/width", 'Magento_Catalog'); ?>
+<?= $block->getVar("breakpoints/mobile/conditions/max-width", 'Magento_Catalog'); ?>
 ```
 
 ## Example operations on product attribute
@@ -159,8 +159,11 @@ $this->getLayout()->getUpdate()->getHandles();
 </script>
 ```
 
-## script initialization
-standard
+## Script initialization
+:information_source: ``<script type="text/lazy">...</script>`` is my custom, optimized JS tag call after first user interaction (click, scroll, etc.)
+
+### Example 1
+#### standard way
 ```
 <div class="swiper-container header-slider" data-mage-init='{"Swissup_Swiper/js/swiper": {"loop":true,"centeredSlides":true,"autoplay": {"delay": 10000}, "navigation":{"nextEl":".swiper-button-next","prevEl":".swiper-button-prev"}}}'>
     <div class="swiper-wrapper">
@@ -170,7 +173,7 @@ standard
    </div>
 </div>
 ```
-or better:
+#### or optimized way:
 ```
 <script type="text/lazy">
     require(['jquery', 'Swissup_Swiper/js/swiper'], function ($, swiper) {
@@ -183,3 +186,24 @@ or better:
 </script>
 ```
 
+### Example 2
+#### standard way
+```
+<script type="text/x-magento-init">
+  {
+    "*": {
+      "Edrone_Magento2module/js/edroneDataTransfer": {}
+    }
+ }
+</script>
+```
+#### or optimized way:
+```
+<script type="text/lazy">
+   require(['jquery', 'Edrone_Magento2module/js/edroneDataTransfer'], function ($, edroneDataTransfer) {
+        $(function () {
+            edroneDataTransfer({});
+        });
+   })
+</script>
+```
