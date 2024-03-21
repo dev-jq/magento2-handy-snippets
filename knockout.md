@@ -23,6 +23,14 @@
    </span>
 </dv>
 ```
+```
+<img data-bind="attr: { src: require.toUrl('images/delivery-standard.png') }" class="method-icon" width="47" height="32" alt="Example image">
+<img data-bind="attr: { data-src: require.toUrl('images/delivery-standard.png') }" class="method-icon lazyload" width="47" height="32" alt="Example lazy image">
+
+<img data-bind="attr: { src: require.toUrl('Magento_Checkout/images/abc.png') }" width="50" height="50" alt="Example module image" />
+<img data-bind="attr: { data-src: require.toUrl('Magento_Checkout/images/abc.png') }" class="lazyload width="50" height="50" alt="Example module lazy image" />
+```
+
 
 
 # Binding
