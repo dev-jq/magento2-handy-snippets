@@ -14,6 +14,17 @@
 <span data-bind="i18n: 'Forgot Your Password?'"></span>
 ```
 ```
+<strong class="delivery-price">
+    <span data-bind="i18n: 'from '"></span>
+    <span data-bind="html: window.checkoutConfig.minExpress"></span>
+    <span data-bind="i18n: ' $'"></span>
+</strong>
+
+or
+
+<span data-bind="i18n: 'from ' + window.checkoutConfig.minExpress + ' $'"></span>
+```
+```
 <div class="minicart">
   <span class="text"><!-- ko i18n: 'My Cart' --><!-- /ko --></span>
   <span class="qty empty"
