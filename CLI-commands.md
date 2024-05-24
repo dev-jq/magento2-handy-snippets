@@ -68,6 +68,12 @@ php bin/magento setup:static-content:deploy pl_PL --theme Vendor/theme --no-html
 php bin/magento setup:static-content:deploy pl_PL en_US en_GB --jobs 20
 
 ```
+for debug files generation in developer mode:
+```
+php bin/magento setup:static-content:deploy -v
+php bin/magento setup:static-content:deploy -vv
+php bin/magento setup:static-content:deploy -vvv
+```
 
 **Setup config:**
 ```
