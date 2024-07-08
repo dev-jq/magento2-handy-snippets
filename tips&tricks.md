@@ -35,6 +35,9 @@ bin/magento setup:di:compile
 https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/patches/apply.html
 In File directory:
 ```
+git diff --no-index File.php File-patch.php > my.patch
+```
+```
 diff -u File.php File-patch.php > File.diff
 ```
 
