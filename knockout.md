@@ -1,4 +1,4 @@
-# Commomn examples
+# [Commomn examples](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax)
 ```
 <div data-bind="mageInit: {'collapsible':{'openedState': '_active', 'active': true}}">
 ...
