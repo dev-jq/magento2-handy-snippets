@@ -1,4 +1,10 @@
 # [Commomn examples](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax)
+
+### how to debug knonckout variable
+```
+<div data-bind="text: ko.toJSON(VARIABLE, null, 2)"></div>
+```
+### examples
 ```
 <div data-bind="mageInit: {'collapsible':{'openedState': '_active', 'active': true}}">
 ...
