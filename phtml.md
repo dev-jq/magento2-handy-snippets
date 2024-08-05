@@ -3,6 +3,12 @@
 <?= __('String to translate'); ?>
 ```
 
+## Translatable text with html and variables
+```
+<?= $block->escapeHtml(__('You will receive a <strong>10% discount on your first purchase</strong> and information about promotions and new products.'), ['strong']) ?>
+<?= $block->escapeHtml(__('I agree with the <a href="%1">Privacy Policy</a> and the principles of how we <a href="%2">process data</a>.', $block->getUrl('privacy-policy'), $block->getUrl('process-cookie')), ['a']) ?> 
+```
+
 ## Useful block functions
 ```
 $block->getViewFileUrl('images/loader-1.gif'); - from web/images directory
