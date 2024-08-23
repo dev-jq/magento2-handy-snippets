@@ -24,14 +24,28 @@ $block->getChildBlock('block.name');
 $block->getChildHtml('block.name');
 $block->getChildChildHtml('block.name');
 $block->getBlockHtml('block.name');
-$block->escapeHtml();
-$block->escapeUrl();
 $block->stripTags(); // removes HTML tags
 
+$block->escapeHtml();
+$block->escapeUrl();
 $block->escapeHtml('value', $allowedTags);
 $block->escapeHtmlAttr('value', $escapeSingleQuote);
 $block->escapeJs('value');
 $block->escapeUrl($url);
+```
+## Escaping
+```
+/* @noEscape */
+/* @escapeNotVerified */
+
+$block->escapeHtml();
+$block->escapeHtml('value', $allowedTags);
+$block->escapeUrl();
+$block->escapeUrl($url);
+$block->escapeHtmlAttr('value', $escapeSingleQuote);
+$block->escapeJs('value');
+
+$escaper->...
 ```
 
 ## Call static block ID in .phtml  template (if exist/enabled/not empty)
