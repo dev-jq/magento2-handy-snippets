@@ -1,3 +1,11 @@
+## Example .phtml header
+```
+<?php
+/** @var \Magento\Framework\View\Element\Template $block */
+/** @var \Magento\Framework\Escaper $escaper */
+?>
+```
+
 ## Translatable text
 ```
 <?= __('String to translate'); ?>
