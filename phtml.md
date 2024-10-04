@@ -2,6 +2,7 @@
 ```
 <?php
 /** @var \Magento\Framework\View\Element\Template $block */
+/** @var \Magento\Framework\View\Helper\SecureHtmlRenderer $secureRenderer */
 /** @var \Magento\Framework\Escaper $escaper */
 ?>
 ```
