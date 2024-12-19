@@ -1,6 +1,16 @@
 ## Viewport Size for Devices - great list for CSS breakpoints
 - [https://yesviz.com/viewport](https://yesviz.com/viewport/)
 
+## :point_right: Disable onepage success page redirect to cart
+
+`vendor/magento/module-checkout/Controller/Onepage/Success.php`
+
+`\Magento\Checkout\Controller\Onepage\Success::execute`
+~~~
+//        if (!$this->_objectManager->get(\Magento\Checkout\Model\Session\SuccessValidator::class)->isValid()) {
+//            return $this->resultRedirectFactory->create()->setPath('checkout/cart');
+//        }
+~~~
 
 ## :point_right: Difference between 'composer install' and 'composer update'
 In detail ``composer update`` will:
