@@ -108,6 +108,8 @@ php bin/magento catalog:image:resize
 **For admin**
 ```
 php bin/magento admin:user:create
+php bin/magento config:set admin/security/password_lifetime 0
+php bin/magento config:set admin/security/password_is_forced 0
 php bin/magento info:adminuri
 php bin/magento admin:user:unlock USERNAME
 ```
