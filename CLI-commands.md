@@ -110,6 +110,7 @@ php bin/magento catalog:image:resize
 php bin/magento admin:user:create
 php bin/magento config:set admin/security/password_lifetime 0
 php bin/magento config:set admin/security/password_is_forced 0
+php bin/magento config:set admin/captcha/enable 0
 php bin/magento info:adminuri
 php bin/magento admin:user:unlock USERNAME
 ```
