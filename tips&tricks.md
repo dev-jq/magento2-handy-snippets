@@ -58,7 +58,7 @@ vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
 ```
 
 in line 71 (before: 'relativeUrls' => false) add this code:
-`'sourceMap' => $mode === State::MODE_DEVELOPER,`
+`'sourceMap' => $this->appState->getMode() === State::MODE_DEVELOPER,`
 
 ## :point_right: Find cacheable="false" blocks in templates
 
