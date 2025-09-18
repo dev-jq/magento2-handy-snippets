@@ -51,14 +51,14 @@ git diff --no-index File.php File-patch.php > my.patch
 diff -u File.php File-patch.php > File.diff
 ```
 
-## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development)
+## :point_right: Generate source maps in .css files for faster developing styles (compilcation process will take longer and output file will be larger! Only for development & Magento =< 2.4.7)
 in file:
 ```
 vendor/magento/framework/Css/PreProcessor/Adapter/Less/Processor.php
 ```
 
 in line 71 (before: 'relativeUrls' => false) add this code:
-`'sourceMap' => true,`
+`'sourceMap' => $mode === State::MODE_DEVELOPER,`
 
 ## :point_right: Find cacheable="false" blocks in templates
 
