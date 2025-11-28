@@ -61,7 +61,7 @@ $escaper->...
 ```
 <?php if($this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml() != ''): ?>
     <div class="static-block">
-        <?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
+        <?= $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('BLOCK_ID')->toHtml(); ?>
     </div>
 <?php endif; ?>
 ```
