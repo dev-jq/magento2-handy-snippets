@@ -3,6 +3,8 @@
 ### how to debug knonckout variable
 ```
 <div data-bind="text: ko.toJSON(VARIABLE, null, 2)"></div>
+or
+<!-- ko text: (console.log('VALUE:', VARIABLE) --><!-- /ko -->
 ```
 ### examples
 ```
