@@ -105,6 +105,7 @@ $escaper->...
 ```
 $product->getAttributeText('color'); - value as 'text' label
 $product->getResource()->getAttribute('color')->getFrontend()->getValue($product); - value as 'text' label
+$product->getResource()->getAttribute('manufacturer')->getStoreLabel($storeId); - name label for store
 $product->getData('color'); - value as 'id attribute number'
 ```
 
